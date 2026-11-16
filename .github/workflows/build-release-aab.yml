@@ -31,10 +31,7 @@ jobs:
       - name: Install Android SDK packages
         run: |
           yes | sdkmanager --licenses
-          # platforms;android-37 is a preview platform: install it from the
-          # canary channel (stable channel has no android-37 package yet).
-          sdkmanager --channel=3 "platforms;android-37"
-          sdkmanager "build-tools;36.1.0" "ndk;29.0.14206865" "cmake;3.22.1"
+          sdkmanager "platforms;android-36" "build-tools;36.1.0" "ndk;29.0.14206865" "cmake;3.22.1"
           echo "sdk.dir=${ANDROID_HOME}" > local.properties
 
       - name: Cache Gradle
