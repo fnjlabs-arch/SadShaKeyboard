@@ -3,7 +3,7 @@
     <string name="search_market_for_addons">חיפוש תוספים</string>
     <string name="no_market_store_available_title">לא ניתן לחפש תוספים!</string>
     <string name="no_market_store_available">לא ניתן למצוא חנות אפליקציות במכשיר שלך.\nלא ניתן לחפש תוספים!</string>
-    <string name="leaving_ask_to_market_title">עוזב את AnySoftKeyboard</string>
-    <string name="leaving_ask_to_market_message">חיפוש תוספים נוספים מתבצע באפליקציה חיצונית.\nחנות Play עשויה להציג מודעות ו/או לעקוב אחר השימוש שלך. זה מחוץ לשליטתה של AnySoftKeyboard.</string>
+    <string name="leaving_ask_to_market_title">עוזב את SadSha Keyboard</string>
+    <string name="leaving_ask_to_market_message">חיפוש תוספים נוספים מתבצע באפליקציה חיצונית.\nחנות Play עשויה להציג מודעות ו/או לעקוב אחר השימוש שלך. זה מחוץ לשליטתה של SadSha Keyboard.</string>
     <string name="cta_continue_to_market">חיפוש</string>
 </resources>

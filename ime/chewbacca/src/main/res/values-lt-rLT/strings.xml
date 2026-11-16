@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="ime_crashed_title">„AnySoftKeyboard“ nulūžo!</string>
-    <string name="ime_crashed_content">Oi, „AnySoftKeyboard“ netikėtai nulūžo…</string>
+    <string name="ime_crashed_title">„SadSha Keyboard“ nulūžo!</string>
+    <string name="ime_crashed_content">Oi, „SadSha Keyboard“ netikėtai nulūžo…</string>
 </resources>
