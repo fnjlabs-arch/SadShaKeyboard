@@ -6,7 +6,7 @@
         <xliff:g id="trace_file">%s</xliff:g>
     </string>
     <string name="menu_about_item">A programról</string>
-    <string name="how_to_pointer_title">Üdvözli az AnySoftKeyboard</string>
+    <string name="how_to_pointer_title">Üdvözli az SadSha Keyboard</string>
     <string name="change_log_card_version_title_template">\u0020\u0020Változási jegyzék v<xliff:g id="name">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_entry_header_template_without_name">\u0020\u0020v<xliff:g id="code">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_url">Verziótörténet:\u0020<xliff:g id="url">%s</xliff:g>\u0020</string>
@@ -212,11 +212,11 @@
     </string>
     <string name="more_ui_settings_group">Felhasználói felület</string>
     <string name="special_dictionaries_group">Speciális szótárak</string>
-    <string name="special_dictionaries_group_summary">Az AnySoftKeyboard-ban használt javaslati szótárak</string>
+    <string name="special_dictionaries_group_summary">Az SadSha Keyboard-ban használt javaslati szótárak</string>
     <string name="use_user_dictionary">Felhasználói szótár</string>
     <string name="use_user_dictionary_on_summary">Javasoljon felhasználó által hozzáadott szavakat (kattintson duplán a hozzáadáshoz)</string>
     <string name="always_use_fallback_user_dictionary">Saját szótár használata</string>
-    <string name="always_use_fallback_user_dictionary_on_summary">Saját szótár használata az AnySoftKeyboard felhasználói szótár opciójával.</string>
+    <string name="always_use_fallback_user_dictionary_on_summary">Saját szótár használata az SadSha Keyboard felhasználói szótár opciójával.</string>
     <string name="always_use_fallback_user_dictionary_off_summary">Az Android globális felhasználói szótárának használata.</string>
     <string name="use_auto_dictionary">Automatikus szótár</string>
     <string name="use_auto_dictionary_dialog_title">Válassza ki a tanulási módot</string>
@@ -349,7 +349,7 @@
     <string name="lang_key_shows_popup_on_summary">A nyelvválasztó gomb egy listát fog felhozni</string>
     <string name="lang_key_shows_popup_off_summary">A nyelvválasztó gomb léptet a nyelvek közt</string>
     <string name="settings_os_clipboard_sync">Vágólap szinkronizálás</string>
-    <string name="settings_os_clipboard_sync_summary_on">Jelenleg a rendszer vágólapját szinkronizálja az AnySoftKeyboarddal.</string>
+    <string name="settings_os_clipboard_sync_summary_on">Jelenleg a rendszer vágólapját szinkronizálja az SadSha Keyboarddal.</string>
     <string name="settings_os_clipboard_sync_summary_off">Jelenleg nem figyeli a rendszer vágólapját.</string>
     <string name="auto_caps">Automatikus nagybetűsítés</string>
     <string name="grammar_group">Nyelvtan</string>
@@ -502,7 +502,7 @@
     <string name="settings_long_press_timeout_slower">Nagyon hosszú</string>
     <string name="settings_long_press_timeout_never">soha</string>
     <string name="settings_force_locale_title">Nyelv kényszerítése</string>
-    <string name="settings_force_locale_summary">Az AnySoftKeyboard-ban használt nyelv kikényszerítése (egy
+    <string name="settings_force_locale_summary">Az SadSha Keyboard-ban használt nyelv kikényszerítése (egy
         idő után lesz hatásos). Jelenleg: %s.
     </string>
     <string name="tweak_workarounds_group">Balkezes mód</string>
@@ -511,7 +511,7 @@
         alkalmas.
     
     </string>
-    <string name="workaround_disable_rtl_fix_summary_off">Az AnySoftKeyboard balkezes módját használja. Csak 
+    <string name="workaround_disable_rtl_fix_summary_off">Az SadSha Keyboard balkezes módját használja. Csak 
         ha a rendszeré nem működik jól.</string>
     <string name="settings_split_state_title_portrait">Szétválasztás álló módban</string>
     <string name="settings_split_state_title_landscape">Szétválasztás fekvő módban</string>
@@ -574,10 +574,10 @@
     <string name="created_mem_dump_file">Memória dumpfájl létrehozva:
         <xliff:g id="file_path">%s</xliff:g>
     </string>
-    <string name="not_configured_with_click_here">Az AnySoftKeyboard még nem használatra kész. Kattintson
+    <string name="not_configured_with_click_here">Az SadSha Keyboard még nem használatra kész. Kattintson
         a beállításhoz.
     </string>
-    <string name="not_notification_permission_text">Az AnySoftKeyboard-nak nincs engedélye értesítések megjelenítésére. Ritkán előfordulhat, hogy értesítenünk kellene Önt kritikus problémákról (például összeomlások).</string>
+    <string name="not_notification_permission_text">Az SadSha Keyboard-nak nincs engedélye értesítések megjelenítésére. Ritkán előfordulhat, hogy értesítenünk kellene Önt kritikus problémákról (például összeomlások).</string>
     <string name="not_configured_with_just_click_here">Kattintson</string>
     <!--  Strings for possible PreferenceActivity Back/Next buttons -->
     <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
@@ -590,24 +590,24 @@
     <string name="enter_abbreviation_target_hint">Teljes szó</string>
     <string name="toast_error_custom_path_backup">Hiba: valamely kontextusbeli app nyitva lehet</string>
     <string name="about_additional_software_licenses">További szoftver licenszek</string>
-    <string name="setup_wizard_step_one_title">Az AnySoftKeyboard engedélyezése</string>
+    <string name="setup_wizard_step_one_title">Az SadSha Keyboard engedélyezése</string>
     <string name="setup_wizard_step_one_details">Most engedélyeznie kell az <i>
-        AnySoftKeyboard</i>-ot. Ellenőrizze az <i>\'AnySoftKeyboard\'</i>-ot a készüléke  <i>Nyelv&amp;Bevitel menüpontja
+        SadSha Keyboard</i>-ot. Ellenőrizze az <i>\'SadSha Keyboard\'</i>-ot a készüléke  <i>Nyelv&amp;Bevitel menüpontja
         alattl</i>. Ez lehetővé teszi a futását.
     </string>
     <string name="setup_wizard_step_one_action">Tovább a <i>Nyelv&amp;bevitel beállításaihoz</i>…
     </string>
     <string name="setup_wizard_step_one_action_error_no_settings_activity">Hiba: Az eszköz nem
-        nem támogatja 3.fél billentyűzeteit. Az AnySoftKeyboard nem engedélyezhető!
+        nem támogatja 3.fél billentyűzeteit. Az SadSha Keyboard nem engedélyezhető!
     </string>
     <string name="setup_wizard_step_permissions_title">Engedélyek megadása</string>
-    <string name="setup_wizard_step_two_title">Váltás az AnySoftKeyboard-ra</string>
-    <string name="setup_wizard_step_two_details">A rendszer mostantól használni tudja az <i>AnySoftKeyboard</i> -ot, de
-        még nincs aktívvá téve.\nBekapcsolva az <i>AnySoftKeyboard</i> lesz az aktív képernyő-billentyűzet, minden hasznos funkciójával !
+    <string name="setup_wizard_step_two_title">Váltás az SadSha Keyboard-ra</string>
+    <string name="setup_wizard_step_two_details">A rendszer mostantól használni tudja az <i>SadSha Keyboard</i> -ot, de
+        még nincs aktívvá téve.\nBekapcsolva az <i>SadSha Keyboard</i> lesz az aktív képernyő-billentyűzet, minden hasznos funkciójával !
     </string>
     <string name="setup_wizard_step_two_action">Billentyűzet bekapcsolása</string>
     <string name="setup_wizard_step_three_title">Mi a következő?</string>
-    <string name="setup_wizard_step_three_details">Köszönjük, hogy az <i>AnySoftKeyboard</i>-ot választotta.
+    <string name="setup_wizard_step_three_details">Köszönjük, hogy az <i>SadSha Keyboard</i>-ot választotta.
     </string>
     <string name="setup_wizard_step_three_details_done">
         <b>Készen van 🎉\nAkár ki is próbálhatja az új kedvencét.</b>
@@ -619,11 +619,11 @@
     <string name="setup_wizard_step_three_action_themes">Témaválasztás…</string>
     <string name="setup_wizard_step_three_action_all_settings">További beállítások…</string>
     <string name="setup_wizard_step_download_title">Nyelvi csomag letöltése</string>
-    <string name="setup_wizard_step_download_details">Jó hírünk, hogy az <i>AnySoftKeyboard</i> több tucat nyelvet támogat. Csak töltse le a megfelelő nyelvi csomagot és használja örömmel
+    <string name="setup_wizard_step_download_details">Jó hírünk, hogy az <i>SadSha Keyboard</i> több tucat nyelvet támogat. Csak töltse le a megfelelő nyelvi csomagot és használja örömmel
         a készülékén.</string>
     <string name="setup_wizard_step_download_action">Nyelvi csomag letöltése</string>
     <string name="setup_wizard_step_download_skip_action">Kihagyás</string>
-    <string name="ime_crashed_text">Sajnos valami probléma van az <i>AnySoftKeyboard</i>-dal.
+    <string name="ime_crashed_text">Sajnos valami probléma van az <i>SadSha Keyboard</i>-dal.
         Semmi vész, <b>Ön</b> segíteni tud nekünk a megoldásban: küldje el emailben a
         hibajelentést, és mi megpróbáljuk kijavítani a hibát, hogy egy hibátlan programot kapjon
         vissza!\n\nŐszinte sajnálattal: a Fejlesztők
@@ -646,7 +646,7 @@
     <string name="wizard_allow_contacts_permission">Engedélyezze a névjegy-alapú gépelési javaslatokat</string>
     <string name="turn_off_contacts_dictionary">A névjegyszótár kikapcsolása</string>
     <string name="read_more_about_permissions">További információ az engedélyekről…</string>
-    <string name="ask_beta_link_promo">Hé! Szeretné az <i>AnySoftKeyboard</i> új funkcióit hamarabb kipróbálni? Szerencséje van! <i>BETA</i> csatornánk elérhető az <b>ÖN</b> számára is!\nCsak regisztráljon a lenti linken, és frissítsen a <i>Google Play</i> -ben!\n\n
+    <string name="ask_beta_link_promo">Hé! Szeretné az <i>SadSha Keyboard</i> új funkcióit hamarabb kipróbálni? Szerencséje van! <i>BETA</i> csatornánk elérhető az <b>ÖN</b> számára is!\nCsak regisztráljon a lenti linken, és frissítsen a <i>Google Play</i> -ben!\n\n
         https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nÉs köszönet, hogy segíti a hibák javítását, mielőtt azok a nyilvánosság elé kerülnének.
     </string>
     <string name="clipboard_fine_select_enabled_toast">Pontos szövegkijelölés a balra/jobbra nyilakkal.</string>
@@ -672,14 +672,14 @@
     <string name="no_internet_fields_specific_layout">semmi speciális</string>
     <string name="bottom_nav_home">Helló</string>
     <string name="setup_wizard_welcome_title">Üdvözlöm!</string>
-    <string name="setup_wizard_welcome_sub_title">Köszönjük, hogy kipróbálja az AnySoftKeyboard-ot!</string>
+    <string name="setup_wizard_welcome_sub_title">Köszönjük, hogy kipróbálja az SadSha Keyboard-ot!</string>
     <string name="setup_wizard_welcome_info">Ahogy más 3.feles billentyűzeteknél is, engedélyeznie
-        kell az AnySoftKeyboard használatát az Android beállításai között. Ez biztosítja, hogy 
+        kell az SadSha Keyboard használatát az Android beállításai között. Ez biztosítja, hogy 
         egy gonosz billentyűzetapp ne figyelhesse titokban a gépelését *.
     </string>
     <string name="setup_wizard_welcome_info_2">Oké, kezdhetjük? Kattintson, végigvezetjük a folyamaton.</string>
     <string name="setup_wizard_welcome_start_action">Beállítások megkezdése…</string>
-    <string name="setup_wizard_welcome_info_footnote">* Természetesen az AnySoftKeyboard nem gonosz.
+    <string name="setup_wizard_welcome_info_footnote">* Természetesen az SadSha Keyboard nem gonosz.
         Arra biztatjuk, hogy nézze meg forráskódunkat és ellenőrizze azt. Ráadásul nem kérünk hozzáférést  a <i>HÁLÓZATHOZ,
         </i> így adatokat nem is tudnánk küldeni..
     </string>
@@ -730,16 +730,16 @@
     <string name="aosp_dark_theme_description">Az AOSP által inspirált sötét színű téma</string>
     <string name="aosp_light_theme_name">AOSP Világos téma</string>
     <string name="aosp_light_theme_description">AOSP által inspirált, világos színvilágú téma</string>
-    <string name="app_share_title">Üdvözli az AnySoftKeyboard</string>
-    <string name="app_share_menu_title">AnySoftKeyboard megosztása ezzel</string>
-    <string name="app_share_text">Hadd javasoljuk a nyílt forráskódú, ingyenes, jól testreszabható, többnyelvű Android billentyűzetalkalmazást, az AnySoftKeyboard-ot.\nLetöltés:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_title">Üdvözli az SadSha Keyboard</string>
+    <string name="app_share_menu_title">SadSha Keyboard megosztása ezzel</string>
+    <string name="app_share_text">Hadd javasoljuk a nyílt forráskódú, ingyenes, jól testreszabható, többnyelvű Android billentyűzetalkalmazást, az SadSha Keyboard-ot.\nLetöltés:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">Kattintson egy meglepetéshez</string>
     <string name="delete_all_clipboard_entries">Vágólap törlése</string>
     <string name="tip_swipe_from_backspace_to_clear">Tipp: a szóközről balra húzva törölheted a szót!</string>
     <string name="notification_read_contacts_ticker">Névjegyek elérése engedély szükséges</string>
     <string name="notification_action_approve_permission">Engedély jóváhagyása</string>
     <string name="notification_action_dismiss_permission">A névjegyszótár letiltása</string>
-    <string name="wizard_allow_notification_permission">Értesítések fogadása az AnySoftKeyboard-tól</string>
+    <string name="wizard_allow_notification_permission">Értesítések fogadása az SadSha Keyboard-tól</string>
     <string name="setup_wizard_step_notification_permissions_details">Ritka esetekben (például alkalmazásösszeomlás esetén) eszközértesítést kell megjelenítenünk. Ez ajánlott, de az értesítések letiltása nem befolyásolja az alkalmazás működését.</string>
     <string name="wizard_skip_notification_permission">Ne küldjön éresítéseket</string>
 </resources>

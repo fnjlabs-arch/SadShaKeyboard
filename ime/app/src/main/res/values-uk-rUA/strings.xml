@@ -6,7 +6,7 @@
 <xliff:g id="trace_file">%s</xliff:g>
     </string>
     <string name="menu_about_item">Про додаток</string>
-    <string name="how_to_pointer_title">Ласкаво просимо в AnySoftKeyboard</string>
+    <string name="how_to_pointer_title">Ласкаво просимо в SadSha Keyboard</string>
     <string name="change_log_card_version_title_template">\u0020\u0020Останні зміни для v<xliff:g id="name">%s </xliff:g>\u0020\u0020</string>
     <string name="change_log_entry_header_template_without_name">\u0020\u0020v<xliff:g id="code">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_url">Ще:\u0020<xliff:g id="url">%s</xliff:g></string>
@@ -66,7 +66,7 @@
     <string name="night_mode_sound_control">Вимкнути звуки натискання клавіш</string>
     <string name="night_mode_vibration_control">Вимкнути вібрацію натискання клавіш</string>
     <string name="power_save_mode_screen">Налаштування енергозберігання</string>
-    <string name="power_save_mode_description">Режим енергозбереження зменшить споживання енергії AnySoftKeyboard шляхом вимкнення функцій:</string>
+    <string name="power_save_mode_description">Режим енергозбереження зменшить споживання енергії SadSha Keyboard шляхом вимкнення функцій:</string>
     <string name="power_save_mode_state_summary">Наразі тригер енергозбереження:\u0020%s</string>
     <string name="power_save_mode_dialog_title">Увімкнути режим енергозбереження</string>
     <string name="power_save_mode_types_never">Ніколи</string>
@@ -207,11 +207,11 @@
     <string name="volume_key_for_left_right_support_off_summary">Гучніше курсор вліво, тихіше курсор вправо     </string>
     <string name="more_ui_settings_group">Інтерфейс користувача</string>
     <string name="special_dictionaries_group">Спеціальні словники</string>
-    <string name="special_dictionaries_group_summary">Пропозиції словників, що використовуються в AnySoftKeyboard</string>
+    <string name="special_dictionaries_group_summary">Пропозиції словників, що використовуються в SadSha Keyboard</string>
     <string name="use_user_dictionary">Словник користувача</string>
     <string name="use_user_dictionary_on_summary">Пропонувати користувачу додавання слів (двічі клацніть щоб додати набрану пропозицію)</string>
     <string name="always_use_fallback_user_dictionary">Використовувати особисті словники користувача</string>
-    <string name="always_use_fallback_user_dictionary_on_summary">Використовувати вбудований в AnySoftKeyboard приватний словник користувача.</string>
+    <string name="always_use_fallback_user_dictionary_on_summary">Використовувати вбудований в SadSha Keyboard приватний словник користувача.</string>
     <string name="always_use_fallback_user_dictionary_off_summary">Спробувати використати вбудований словник Android.</string>
     <string name="use_auto_dictionary">Авто словник</string>
     <string name="use_auto_dictionary_dialog_title">Виберіть метод навчання</string>
@@ -320,8 +320,8 @@
     <string name="lang_key_shows_popup_on_summary">Кнопка мови покаже діалогове вікно</string>
     <string name="lang_key_shows_popup_off_summary">Кнопка мови буде циклувати через включені мови</string>
     <string name="settings_os_clipboard_sync">Синхронізувати буфер обміну з ОС</string>
-    <string name="settings_os_clipboard_sync_summary_on">Виявлення змін у буфері та синхронізації з AnySoftKeyboard.</string>
-    <string name="settings_os_clipboard_sync_summary_off">Не переглядати буфер обміну операцій поза межами AnySoftKeyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_on">Виявлення змін у буфері та синхронізації з SadSha Keyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_off">Не переглядати буфер обміну операцій поза межами SadSha Keyboard.</string>
     <string name="auto_caps">Авто-великі літери</string>
     <string name="grammar_group">Граматика</string>
     <string name="keyboard_behavior_group">Поведінка клавіатури</string>
@@ -454,11 +454,11 @@
     <string name="settings_long_press_timeout_slower">Дуже повільно</string>
     <string name="settings_long_press_timeout_never">Ніколи</string>
     <string name="settings_force_locale_title">Мова додатку</string>
-    <string name="settings_force_locale_summary">Мова, яка використовується всередині AnySoftKeyboard (зміни вступлять в силу через деякий час). Поточний: %s.</string>
+    <string name="settings_force_locale_summary">Мова, яка використовується всередині SadSha Keyboard (зміни вступлять в силу через деякий час). Поточний: %s.</string>
     <string name="tweak_workarounds_group">Тимчасові рішення</string>
     <string name="workaround_disable_rtl_fix">Заборонити оброблення праворуч-ліворуч</string>
     <string name="workaround_disable_rtl_fix_summary_on">Використовуйте оброблення OS RTL (для телефонів SE)</string>
-    <string name="workaround_disable_rtl_fix_summary_off">Використовуйте оброблення AnySoftKeyboard RTL</string>
+    <string name="workaround_disable_rtl_fix_summary_off">Використовуйте оброблення SadSha Keyboard RTL</string>
     <string name="settings_split_state_title_portrait">Портретне поділ/Зберігати поточний стан</string>
     <string name="settings_split_state_title_landscape">Вертикальний поділ/Зберігати поточний стан</string>
     <string name="settings_split_state_summary">Виберіть, якою має бути клавіатура за замовчуванням. Зараз: %s</string>
@@ -498,10 +498,10 @@
     <string name="emoji_default_skin_tone_value_random_type">Випадковий тон шкіри</string>
     <string name="developer_tools">Інструменти розробника</string>
     <string name="click_for_developer_features">Інструменти розробника</string>
-    <string name="click_for_developer_features_summary">Різні інструменти для розробників AnySoftKeyboard</string>
+    <string name="click_for_developer_features_summary">Різні інструменти для розробників SadSha Keyboard</string>
     <string name="failed_to_create_mem_dump">Не вдалося створити файл дампа пам\'яті через: <xliff:g id="message">%s </xliff:g>     </string>
     <string name="created_mem_dump_file">Створення файлу дампа пам\'яті на: <xliff:g id="file_path">%s </xliff:g>     </string>
-    <string name="not_configured_with_click_here">AnySoftKeyboard не є повністю налаштування для використання. Натисніть тут, щоб налаштувати.</string>
+    <string name="not_configured_with_click_here">SadSha Keyboard не є повністю налаштування для використання. Натисніть тут, щоб налаштувати.</string>
     <string name="not_configured_with_just_click_here">Натисніть тут</string>
     <!--  Strings for possible PreferenceActivity Back/Next buttons -->
     <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
@@ -513,26 +513,26 @@
     <string name="enter_abbreviation_hint">Абревіатура</string>
     <string name="enter_abbreviation_target_hint">Ціле речення</string>
     <string name="about_additional_software_licenses">Додаткові ліцензії</string>
-    <string name="setup_wizard_step_one_title">Активувати AnySoftKeyboard</string>
-    <string name="setup_wizard_step_one_details">У цьому кроці ви повинні включити <i>AnySoftKeyboard</i>. Будь ласка, перевірте <i>\'AnySoftKeyboard\'</i> в <i>Language&amp;Input settings</i>. Це дозволить нам працювати на вашому пристрої.</string>
+    <string name="setup_wizard_step_one_title">Активувати SadSha Keyboard</string>
+    <string name="setup_wizard_step_one_details">У цьому кроці ви повинні включити <i>SadSha Keyboard</i>. Будь ласка, перевірте <i>\'SadSha Keyboard\'</i> в <i>Language&amp;Input settings</i>. Це дозволить нам працювати на вашому пристрої.</string>
     <string name="setup_wizard_step_one_action">Перейти до <i>Налаштування мови та вводу</i>…</string>
-    <string name="setup_wizard_step_one_action_error_no_settings_activity">Помилка: Пристрій підтримує третіх сторін клавіатур. AnySoftKeyboard не може бути активований!</string>
+    <string name="setup_wizard_step_one_action_error_no_settings_activity">Помилка: Пристрій підтримує третіх сторін клавіатур. SadSha Keyboard не може бути активований!</string>
     <string name="setup_wizard_step_permissions_title">Включити дозволи</string>
-    <string name="setup_wizard_step_two_title">Вибрати AnySoftKeyboard</string>
-    <string name="setup_wizard_step_two_details">Ваша система може використовувати <i>AnySoftKeyboard</i> зараз, але він не встановлений як активна клавіатура. \nПри перемиканні, <i>AnySoftKeyboard</i> буде ваша нова екранна клавіатура, разом з усіма його функціями!</string>
+    <string name="setup_wizard_step_two_title">Вибрати SadSha Keyboard</string>
+    <string name="setup_wizard_step_two_details">Ваша система може використовувати <i>SadSha Keyboard</i> зараз, але він не встановлений як активна клавіатура. \nПри перемиканні, <i>SadSha Keyboard</i> буде ваша нова екранна клавіатура, разом з усіма його функціями!</string>
     <string name="setup_wizard_step_two_action">Перемикатися між активними клавіатурами</string>
     <string name="setup_wizard_step_three_title">Що далі</string>
-    <string name="setup_wizard_step_three_details">Дякуємо, що вибрали <i>AnySoftKeyboard</i>.</string>
+    <string name="setup_wizard_step_three_details">Дякуємо, що вибрали <i>SadSha Keyboard</i>.</string>
     <string name="setup_wizard_step_three_details_done"><b>Готово 🎉\nПерейдіть в Ваше улюблене додаток, щоб спробувати.</b></string>
     <string name="setup_wizard_step_three_details_actions">Або ви можете налаштувати та персоналізувати клавіатуру по своєму смаку:</string>
     <string name="setup_wizard_step_three_action_languages">Налаштування мови…</string>
     <string name="setup_wizard_step_three_action_themes">Виберіть тему…</string>
     <string name="setup_wizard_step_three_action_all_settings">Налаштувати все інше…</string>
     <string name="setup_wizard_step_download_title">Скачати мовні пакети</string>
-    <string name="setup_wizard_step_download_details">Ви будете раді дізнатися, що <i>AnySoftKeyboard</i> підтримує десятки мов. Просто завантажте потрібний мовний пакет і насолоджуйтеся друкуванням будь-якою мовою вашого пристрою.</string>
+    <string name="setup_wizard_step_download_details">Ви будете раді дізнатися, що <i>SadSha Keyboard</i> підтримує десятки мов. Просто завантажте потрібний мовний пакет і насолоджуйтеся друкуванням будь-якою мовою вашого пристрою.</string>
     <string name="setup_wizard_step_download_action">Завантажити мовний пакет</string>
     <string name="setup_wizard_step_download_skip_action">Пропустити</string>
-    <string name="ime_crashed_text">На жаль, є проблема з  <i>AnySoftKeyboard</i>. Не панікуйте, є щось  <b>ви</b> може зробити, щоб допомогти вирішити цю проблему: послати нами звіт по аварії, і ми зробимо все можливе, щоб вирішити цю аварію і ви отримаєте назад з дивним досвідом клавіатури!\n\n З щирою вибаченням, команда Dev.</string>
+    <string name="ime_crashed_text">На жаль, є проблема з  <i>SadSha Keyboard</i>. Не панікуйте, є щось  <b>ви</b> може зробити, щоб допомогти вирішити цю проблему: послати нами звіт по аварії, і ми зробимо все можливе, щоб вирішити цю аварію і ви отримаєте назад з дивним досвідом клавіатури!\n\n З щирою вибаченням, команда Dev.</string>
     <string name="ime_crashed_send_button">Надіслати</string>
     <string name="ime_crashed_cancel_button">"Скасувати"</string>
     <string name="ime_crashed_intent_selector_title">Відправляти звіт аварії через</string>
@@ -551,7 +551,7 @@
     <string name="wizard_allow_contacts_permission">Дозволити пропозиції на основі контактів</string>
     <string name="turn_off_contacts_dictionary">Вимкнути словник Контакти</string>
     <string name="read_more_about_permissions">Прочитати більше про дозволи…</string>
-    <string name="ask_beta_link_promo">Гей! Хочеш швидше отримувати нові функції <i>AnySoftKeyboard</i>? Тоді тобі пощастило! Канал <i>BETA</i> просто створено для <b>ТЕБЕ</b>!\пПросто зареєструйся за посиланням нижче та онови через <i>Google Play Маркет</i>!\n\nhttps://play.google.com/apps/testing/com.menny.android.anysoftkeyboard\n\nІ дякуємо за допомогу в усуненні помилок перед переходом нововведень в реліз.</string>
+    <string name="ask_beta_link_promo">Гей! Хочеш швидше отримувати нові функції <i>SadSha Keyboard</i>? Тоді тобі пощастило! Канал <i>BETA</i> просто створено для <b>ТЕБЕ</b>!\пПросто зареєструйся за посиланням нижче та онови через <i>Google Play Маркет</i>!\n\nhttps://play.google.com/apps/testing/com.menny.android.anysoftkeyboard\n\nІ дякуємо за допомогу в усуненні помилок перед переходом нововведень в реліз.</string>
     <string name="clipboard_fine_select_enabled_toast">Виділення тексту активовано. Використовуйте стрілки вліво/вправо.</string>
     <string name="app_shortcut_keyboards_disabled">Навігацію по клавіатурах відключено</string>
     <string name="app_shortcut_keyboards_long_label">Виберіть розкладку клавіатури</string>
@@ -575,11 +575,11 @@
     <string name="no_internet_fields_specific_layout">Відсутнє</string>
     <string name="bottom_nav_home">Привіт</string>
     <string name="setup_wizard_welcome_title">Вітаємо!</string>
-    <string name="setup_wizard_welcome_sub_title">Дякуємо, що вирішили спробувати AnySoftKeyboard!</string>
-    <string name="setup_wizard_welcome_info">Як і люба інша клавіатура AnySoftKeyboard вимагає активації в Настройках Android. Це потрібно для того, щоб програми з шкідливим кодом у вигляді клавіатур не поцупили ваші дані.</string>
+    <string name="setup_wizard_welcome_sub_title">Дякуємо, що вирішили спробувати SadSha Keyboard!</string>
+    <string name="setup_wizard_welcome_info">Як і люба інша клавіатура SadSha Keyboard вимагає активації в Настройках Android. Це потрібно для того, щоб програми з шкідливим кодом у вигляді клавіатур не поцупили ваші дані.</string>
     <string name="setup_wizard_welcome_info_2">Готові? Натисніть нижче, щоб почати супровід.</string>
     <string name="setup_wizard_welcome_start_action">Запуск установки…</string>
-    <string name="setup_wizard_welcome_info_footnote">* Відомо, що AnySoftKeyboard не представляє ніякої небезпеки. Ви можете переконатися в цьому, зазирнувши у вихідний код програми. Більш того, програма не вимагає <i>МЕРЕЖЕВИХ</i> дозволів, тобто вона нікуди не відправляє дані з вашого пристрою.</string>
+    <string name="setup_wizard_welcome_info_footnote">* Відомо, що SadSha Keyboard не представляє ніякої небезпеки. Ви можете переконатися в цьому, зазирнувши у вихідний код програми. Більш того, програма не вимагає <i>МЕРЕЖЕВИХ</i> дозволів, тобто вона нікуди не відправляє дані з вашого пристрою.</string>
     <string name="setup_wizard_welcome_privacy_action">Перехід до політики конфіденційності…</string>
     <string name="clear_all_dictionary_override">Очистити перезаписи</string>
     <string name="theme_case_type_override_dialog_title">Вибрати перевизначити регістр літер</string>
@@ -623,5 +623,5 @@
     <string name="aosp_dark_theme_description">AOSP-навіяна тема темних кольорів клавіатури</string>
     <string name="aosp_light_theme_name">AOSP Світла тема</string>
     <string name="aosp_light_theme_description">AOSP-навіяна тема світлих кольорів клавіатури</string>
-    <string name="app_share_title">Вітаємо в AnySoftKeyboard</string>
+    <string name="app_share_title">Вітаємо в SadSha Keyboard</string>
 </resources>

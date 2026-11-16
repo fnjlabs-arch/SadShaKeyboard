@@ -7,7 +7,7 @@
     </string>
     <string name="debug_tracing_finished">მიდევნება დასრულდა!\nმიდევნების ფაილია\u0020<xliff:g id="trace_file">%s</xliff:g></string>
     <string name="menu_about_item">შესახებ</string>
-    <string name="how_to_pointer_title">მოგესალმებათ AnySoftKeyboard</string>
+    <string name="how_to_pointer_title">მოგესალმებათ SadSha Keyboard</string>
     <string name="change_log_card_version_title_template">\u0020\u0020ბოლო ცვლილებები ვერსიისთვის v<xliff:g id="name">%s</xliff:g>\u0020\u0020
     </string>
     <string name="change_log_entry_header_template_without_name">\u0020\u0020v<xliff:g id="code">%s</xliff:g>\u0020\u0020</string>
@@ -79,7 +79,7 @@
     <string name="night_mode_sound_control">უხმოდ ღილაკებზე შეხება</string>
     <string name="night_mode_vibration_control">არ ითრთოლოს ღილაკის შეხებისას</string>
     <string name="power_save_mode_screen">ენერგოდაზოგვის პარამეტრები</string>
-    <string name="power_save_mode_description">ენერგომზოგი რეჟიმი ენერგომოხმარებას ამცირებს, AnySoftKeyboard-ის შემდეგი შესაძლებლობებით:</string>
+    <string name="power_save_mode_description">ენერგომზოგი რეჟიმი ენერგომოხმარებას ამცირებს, SadSha Keyboard-ის შემდეგი შესაძლებლობებით:</string>
     <string name="power_save_mode_state_summary">ამჟამად, ენერგომზოგი ჩაირთვება:\u0020%s</string>
     <string name="power_save_mode_dialog_title">ენერგომზოგი რეჟიმის ჩართვა</string>
     <string name="power_save_mode_types_never">არასდროს</string>
@@ -233,11 +233,11 @@
     <string name="volume_key_for_left_right_support_off_summary">ხმის აწევით ერთი ადგილით მარცხნივ, დაწევით კი მარჯვნივ გადასვლა</string>
     <string name="more_ui_settings_group">სამომხმარებლო იერსახე</string>
     <string name="special_dictionaries_group">საგანგებო ლექსიკონები</string>
-    <string name="special_dictionaries_group_summary">შემოთავაზებების ლექსიკონები, რომელთაც იყენებს AnySoftKeyboard</string>
+    <string name="special_dictionaries_group_summary">შემოთავაზებების ლექსიკონები, რომელთაც იყენებს SadSha Keyboard</string>
     <string name="use_user_dictionary">მომხმარებლის ლექსიკონი</string>
     <string name="use_user_dictionary_on_summary">მომხმარებლის მიერ დამატებული სიტყვების შემოთავაზება (ორმაგი წკაპი სიტყვის ჩასამატებლად)</string>
     <string name="always_use_fallback_user_dictionary">პირადი ლექსიკონის საცავი</string>
-    <string name="always_use_fallback_user_dictionary_on_summary">პირადი საცავის გამოყენება AnySoftKeyboard-ში ჩაშენებული სამომხმარებლო ლექსიკონისთვის.</string>
+    <string name="always_use_fallback_user_dictionary_on_summary">პირადი საცავის გამოყენება SadSha Keyboard-ში ჩაშენებული სამომხმარებლო ლექსიკონისთვის.</string>
     <string name="always_use_fallback_user_dictionary_off_summary">Android-ში ჩაშენებული საერთო სამომხმარებლო ლექსიკონის გამოყენება.</string>
     <string name="use_auto_dictionary">ლექსიკონი თვითშერჩევით</string>
     <string name="use_auto_dictionary_dialog_title">შესწავლის მეთოდის მითითება</string>
@@ -375,8 +375,8 @@
     <string name="lang_key_shows_popup_on_summary">ენის ღილაკი ამოაგდებს ასარჩევ მენიუს</string>
     <string name="lang_key_shows_popup_off_summary">ენის ღილაკი ამოირჩევს ენებს მიყოლებით</string>
     <string name="settings_os_clipboard_sync">ასლის საცავთან გაზიარება</string>
-    <string name="settings_os_clipboard_sync_summary_on">აღებული ასლის ცვილებებს გაიზიარებს AnySoftKeyboard.</string>
-    <string name="settings_os_clipboard_sync_summary_off">აღებულ ასლზე მოქმედებეს მის გარეთ არ გაიზიარებს AnySoftKeyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_on">აღებული ასლის ცვილებებს გაიზიარებს SadSha Keyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_off">აღებულ ასლზე მოქმედებეს მის გარეთ არ გაიზიარებს SadSha Keyboard.</string>
     <string name="auto_caps">პირველი ასოს გამთავრულება</string>
     <string name="grammar_group">გრამატიკა</string>
     <string name="keyboard_behavior_group">კლავიატურის მოქმედება</string>
@@ -533,7 +533,7 @@
     <string name="settings_long_press_timeout_slower">მეტად ნელი</string>
     <string name="settings_long_press_timeout_never">არასდროს</string>
     <string name="settings_force_locale_title">ენის იძულებითი მითითება</string>
-    <string name="settings_force_locale_summary">იმ ენის მითითება, რომელსაც გამოიყენებს AnySoftKeyboard  (ამოქმედებას
+    <string name="settings_force_locale_summary">იმ ენის მითითება, რომელსაც გამოიყენებს SadSha Keyboard  (ამოქმედებას
          დრო სჭირდება). ამჟამად: %s.
     </string>
     <string name="tweak_workarounds_group">დროებითი გადაწყვეტები</string>
@@ -541,7 +541,7 @@
     <string name="workaround_disable_rtl_fix_summary_on">საოპერაციო სისტემის RTL-მხარდაჭერა. კარგად მუშაობს
         ახალ მოწყობილობებზე.
     </string>
-    <string name="workaround_disable_rtl_fix_summary_off">AnySoftKeyboard-ის RTL-მხარდაჭერა. მხოლოდ
+    <string name="workaround_disable_rtl_fix_summary_off">SadSha Keyboard-ის RTL-მხარდაჭერა. მხოლოდ
         იმ შემთხვევისთვის, თუ სისტემის ვერ იმუშავებს.
     </string>
     <string name="settings_split_state_title_portrait">შვეულად გაყოფა/ერთიანი სახით</string>
@@ -604,7 +604,7 @@
     <string name="emoji_default_gender_value_random_type">შემთხვევითი</string>
     <string name="developer_tools">შემმუშავებლის ხელსაწყოები</string>
     <string name="click_for_developer_features">შემმუშავებლის ხელსაწყოები</string>
-    <string name="click_for_developer_features_summary">ხელსაწყოების ნაკრები AnySoftKeyboard-ის
+    <string name="click_for_developer_features_summary">ხელსაწყოების ნაკრები SadSha Keyboard-ის
         შემმუშავებლებისთვის
     </string>
     <string name="failed_to_create_mem_dump">მეხსიერების ამონაბეჭდი ფაილი ვერ შეიქმნა, მიზეზი:
@@ -613,10 +613,10 @@
     <string name="created_mem_dump_file">მეხსიერების ამონაბეჭდი ფაილის მისამართია:
         <xliff:g id="file_path">%s</xliff:g>
     </string>
-    <string name="not_configured_with_click_here">AnySoftKeyboard არაა სრულად გამართული გამოსაყენებლად. დაწკაპეთ
+    <string name="not_configured_with_click_here">SadSha Keyboard არაა სრულად გამართული გამოსაყენებლად. დაწკაპეთ
         აქ გასამართად.
     </string>
-    <string name="not_notification_permission_text">AnySoftKeyboard ნებართვის უქონლობის გამო ვერ გაჩვენებთ შეტყობინებებს. იშვიათად, შეიძლება  საჭირო იყოს გეცნობოთ მნიშვნელოვანი საკითხების შესახებ (თუნდაც უეცარი გათიშვების).</string>
+    <string name="not_notification_permission_text">SadSha Keyboard ნებართვის უქონლობის გამო ვერ გაჩვენებთ შეტყობინებებს. იშვიათად, შეიძლება  საჭირო იყოს გეცნობოთ მნიშვნელოვანი საკითხების შესახებ (თუნდაც უეცარი გათიშვების).</string>
     <string name="not_configured_with_just_click_here">დაწკაპეთ აქ</string>
     <!--  Strings for possible PreferenceActivity Back/Next buttons -->
     <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
@@ -629,25 +629,25 @@
     <string name="enter_abbreviation_target_hint">სრული წინადადება</string>
     <string name="toast_error_custom_path_backup">შეცდომა: ნებისმიერი კონტექსტური აპი შეიძლება გაიხსნას</string>
     <string name="about_additional_software_licenses">პროგრამის დამატებითი ლიცენზიები</string>
-    <string name="setup_wizard_step_one_title">ჩართეთ AnySoftKeyboard</string>
+    <string name="setup_wizard_step_one_title">ჩართეთ SadSha Keyboard</string>
     <string name="setup_wizard_step_one_details">ამ საფეხურზე საჭიროა, ჩართოთ <i>
-        AnySoftKeyboard</i>. გთხოვთ მონახოთ <i>„AnySoftKeyboard“</i> თქვენი <i>ენებისა და შეყვანის
+        SadSha Keyboard</i>. გთხოვთ მონახოთ <i>„SadSha Keyboard“</i> თქვენი <i>ენებისა და შეყვანის
         პარამეტრებში</i>. შედეგად, მოწყობილობაზე გაშვების ნებართვას მიიღებს.
     </string>
     <string name="setup_wizard_step_one_action">გადადით თქვენი <i>ენებისა და შეყვანის პარამეტრებში</i>…
     </string>
     <string name="setup_wizard_step_one_action_error_no_settings_activity">შეცდომა: თქვენს მოწყობილობაზე
-        არაა მხარდაჭერილი გარეშე კლავიატურები. AnySoftKeyboard ვერ ამუშავდება!
+        არაა მხარდაჭერილი გარეშე კლავიატურები. SadSha Keyboard ვერ ამუშავდება!
     </string>
     <string name="setup_wizard_step_permissions_title">ნებართვების მინიჭება</string>
-    <string name="setup_wizard_step_two_title">გადართვა AnySoftKeyboard-ზე</string>
-    <string name="setup_wizard_step_two_details">თქვენ სისტემას უკვე შეუძლია გამოიყენოს <i>AnySoftKeyboard</i>, მაგრამ
-        არაა არჩეული მოქმედ კლავიატურად.\nგადართვის შედეგად <i>AnySoftKeyboard</i> გახდება თქვენი ახალი
+    <string name="setup_wizard_step_two_title">გადართვა SadSha Keyboard-ზე</string>
+    <string name="setup_wizard_step_two_details">თქვენ სისტემას უკვე შეუძლია გამოიყენოს <i>SadSha Keyboard</i>, მაგრამ
+        არაა არჩეული მოქმედ კლავიატურად.\nგადართვის შედეგად <i>SadSha Keyboard</i> გახდება თქვენი ახალი
         ეკრანული კლავიატურა თავისი ყველა უპირატესობით!
     </string>
     <string name="setup_wizard_step_two_action">გადართვა კლავიატურებს შორის</string>
     <string name="setup_wizard_step_three_title">შემდეგი ნაბიჯი</string>
-    <string name="setup_wizard_step_three_details">გმადლობთ, რომ აირჩიეთ <i>AnySoftKeyboard</i>.
+    <string name="setup_wizard_step_three_details">გმადლობთ, რომ აირჩიეთ <i>SadSha Keyboard</i>.
     </string>
     <string name="setup_wizard_step_three_details_done">
         <b>მზადაა 🎉\nგახსენით სასურველი აპი და გამოცადეთ.</b>
@@ -659,11 +659,11 @@
     <string name="setup_wizard_step_three_action_themes">იერსახის არჩევა…</string>
     <string name="setup_wizard_step_three_action_all_settings">სხვა დანარჩენის გამართვა…</string>
     <string name="setup_wizard_step_download_title">ენის კრებულის ჩამოტვირთვა</string>
-    <string name="setup_wizard_step_download_details">ალბათ გაგიხარდებათ, რომ <i>AnySoftKeyboard</i> მრავალ ენას უჭერს მხარს. მხოლოდ უნდა ჩამოტვირთოთ სასურველი ენის კრებული და ისიამოვნებთ ტექსტის
+    <string name="setup_wizard_step_download_details">ალბათ გაგიხარდებათ, რომ <i>SadSha Keyboard</i> მრავალ ენას უჭერს მხარს. მხოლოდ უნდა ჩამოტვირთოთ სასურველი ენის კრებული და ისიამოვნებთ ტექსტის
         ნებისმიერი ანბანით აკრეფის შესაძლებლობით.</string>
     <string name="setup_wizard_step_download_action">ენის კრებულის ჩამოტვირთვა</string>
     <string name="setup_wizard_step_download_skip_action">გამოტოვება</string>
-    <string name="ime_crashed_text">სამწუხაროდ, რაღაც ხარვეზითაა <i>AnySoftKeyboard</i>.
+    <string name="ime_crashed_text">სამწუხაროდ, რაღაც ხარვეზითაა <i>SadSha Keyboard</i>.
         ნუ იღელვებთ, გამოსწორებაში <b>თქვენც</b> შეგიძლიათ დაგვეხმაროთ: გამოგზავნეთ გათიშვის
         მოხსენება, ჩვენ კი ყველანაირად ვეცდებით გამოვასწოროთ ხარვეზი და დაგიბრუნოთ გამართული
         კლავიატურა!\n\nბოდიშის მოხდით, შემმუშავებელთა გუნდი.
@@ -686,7 +686,7 @@
     <string name="wizard_allow_contacts_permission">ნომრების წიგნაკიდან შემოთავაზების ნებართვა</string>
     <string name="turn_off_contacts_dictionary">ნომრების ლექსიკონის გამორთვა</string>
     <string name="read_more_about_permissions">იხილეთ ვრცლად ნებართვებზე…</string>
-    <string name="ask_beta_link_promo">ჰეი! გსურთ ახალი <i>AnySoftKeyboard</i> მალევე მიიღოთ? მაშინ
+    <string name="ask_beta_link_promo">ჰეი! გსურთ ახალი <i>SadSha Keyboard</i> მალევე მიიღოთ? მაშინ
         გაგიმართლათ! <i>BETA</i> არხი უკვე ხელმისაწვდომია  <b>თქვენთვის</b>!\nშექმენით ანგარიში
         ქვემოთ ბმულით და განაახლეთ <i>Google Play</i> მაღაზიიდან!\n\n
         https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nწინასწარ გმადლობთ
@@ -715,15 +715,15 @@
     <string name="no_internet_fields_specific_layout">არცერთი</string>
     <string name="bottom_nav_home">გამარჯობა</string>
     <string name="setup_wizard_welcome_title">მოგესალმებით!</string>
-    <string name="setup_wizard_welcome_sub_title">გმადლობთ, რომ სინჯეთ AnySoftKeyboard!
+    <string name="setup_wizard_welcome_sub_title">გმადლობთ, რომ სინჯეთ SadSha Keyboard!
     </string>
     <string name="setup_wizard_welcome_info">Android-ის სხვა კლავიატურების მსგავსად საჭიროა,
-        AnySoftKeyboard ჩაირთოს Android-პარამეტრებიდან. ამას Android იმიტომ ითხოვს, რომ დარწმუნდეს,
+        SadSha Keyboard ჩაირთოს Android-პარამეტრებიდან. ამას Android იმიტომ ითხოვს, რომ დარწმუნდეს,
         თქვენ მიერ აკრეფილ მონაცემებს, ხომ არ აღრიცხავს მავნე კლავიატურები*.
     </string>
     <string name="setup_wizard_welcome_info_2">კარგი, მზად ხართ? დაწკაპეთ ქვემოთ დაწყებას და გაგიძღვებით.</string>
     <string name="setup_wizard_welcome_start_action">გამართვის დაწყება…</string>
-    <string name="setup_wizard_welcome_info_footnote">* რასაკვირველია, AnySoftKeyboard არაა მავნე. საშუალება
+    <string name="setup_wizard_welcome_info_footnote">* რასაკვირველია, SadSha Keyboard არაა მავნე. საშუალება
         გაქვთ გადახედოთ ჩვენს პირველწყარო კოდს შესამოწმებლად. გარდა ამისა, ჩვენ არ ვითხოვთ <i>ქსელთან კავშირის
         </i> ნებართვებს, ასე რომ მოწყობილობიდან მონაცემებს ვერ გავგზავნით.
     </string>
@@ -775,16 +775,16 @@
     <string name="aosp_dark_theme_description">კლავიატურის იერსახე, AOSP-ის მუქი ფერებით</string>
     <string name="aosp_light_theme_name">AOSP-ის ნათელი იერსახე</string>
     <string name="aosp_light_theme_description">კლავიატურის იერსახე, AOSP-ის ნათელი ფერებით</string>
-    <string name="app_share_title">მოგესალმებათ AnySoftKeyboard</string>
-    <string name="app_share_menu_title">გააზიარეთ AnySoftKeyboard</string>
-    <string name="app_share_text">მსურს შემოგთავაზოთ ღია წყაროს მქონე, პირადულობის უზრუნველმყოფი,  თავისუფალი, მორგების უამრავი შესაძლებლობით, მრავალენოვანი Android-კლავიატურის აპი AnySoftKeyboard.\nგადმოსაწერად იხილეთ:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_title">მოგესალმებათ SadSha Keyboard</string>
+    <string name="app_share_menu_title">გააზიარეთ SadSha Keyboard</string>
+    <string name="app_share_text">მსურს შემოგთავაზოთ ღია წყაროს მქონე, პირადულობის უზრუნველმყოფი,  თავისუფალი, მორგების უამრავი შესაძლებლობით, მრავალენოვანი Android-კლავიატურის აპი SadSha Keyboard.\nგადმოსაწერად იხილეთ:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">დაწკაპკეთ სასიამოვნო მოულოდნელობისთვის</string>
     <string name="delete_all_clipboard_entries">აღებული ასლის წაშლა</string>
     <string name="tip_swipe_from_backspace_to_clear">რჩევა: უკუშლიდან მარცხნივ გაუსვით სიტყვის მოცილებისთვის!</string>
     <string name="notification_read_contacts_ticker">კონტაქტებზე ნებართვაა საჭირო</string>
     <string name="notification_action_approve_permission">ნებართვის დამოწმება</string>
     <string name="notification_action_dismiss_permission">ნომრების ლექსიკონის გამორთვა</string>
-    <string name="wizard_allow_notification_permission">შეტყობინენებების ნების დართვა AnySoftKeyboard-დან</string>
+    <string name="wizard_allow_notification_permission">შეტყობინენებების ნების დართვა SadSha Keyboard-დან</string>
     <string name="setup_wizard_step_notification_permissions_details">იშვიათად (მაგალითად უეცარი გათიშვისას) საჭიროა გამოჩნდეს შეტყობინება მოწყობილობაზე. სასურველია დართოთ ნება, მაგრამ ამის გარეშეც ჩვეულებრივ იმუშავებს.</string>
     <string name="wizard_skip_notification_permission">შეტყობინებების უარყოფა</string>
     <string name="touch_trajectory_correction_title">შეხების მიმართულების შესწორება</string>

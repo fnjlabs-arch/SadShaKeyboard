@@ -6,7 +6,7 @@
         <xliff:g id="trace_file">%s</xliff:g>
     </string>
     <string name="menu_about_item">Apie</string>
-    <string name="how_to_pointer_title">Sveiki prisijungę prie „AnySoftKeyboard“</string>
+    <string name="how_to_pointer_title">Sveiki prisijungę prie „SadSha Keyboard“</string>
     <string name="change_log_card_version_title_template">\u0020\u0020Paskutiniai pakeitimai versijai<xliff:g id="name">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_entry_header_template_without_name">\u0020\u0020v<xliff:g id="code">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_url">Daugiau:\u0020<xliff:g id="url">%s</xliff:g></string>
@@ -69,7 +69,7 @@
     <string name="night_mode_sound_control">Išjungs klavišų paspaudimo garsus</string>
     <string name="night_mode_vibration_control">Išjungs klavišų paspaudimo vibraciją</string>
     <string name="power_save_mode_screen">Energijos taupymo nustatymai</string>
-    <string name="power_save_mode_description">Energijos taupymo režimas sumažins „AnySoftKeyboard“ energijos suvartojimą, išjungdamas funkcijas:</string>
+    <string name="power_save_mode_description">Energijos taupymo režimas sumažins „SadSha Keyboard“ energijos suvartojimą, išjungdamas funkcijas:</string>
     <string name="power_save_mode_state_summary">Dabartinis energijos taupymo režimo trigeris:\u0020%s</string>
     <string name="power_save_mode_dialog_title">Įjungti energijos taupymo režimą</string>
     <string name="power_save_mode_types_never">Niekada</string>
@@ -212,11 +212,11 @@
     </string>
     <string name="more_ui_settings_group">Naudotojo sąsaja</string>
     <string name="special_dictionaries_group">Specialūs žodynai</string>
-    <string name="special_dictionaries_group_summary">Pasiūlymų žodynai naudojami „AnySoftKeyboard“</string>
+    <string name="special_dictionaries_group_summary">Pasiūlymų žodynai naudojami „SadSha Keyboard“</string>
     <string name="use_user_dictionary">Naudotojo žodynas</string>
     <string name="use_user_dictionary_on_summary">Pasiūlyti naudotojo pridėtus žodžius (dukart spustelėkite įvestą pasiūlymą, kad pridėti)</string>
     <string name="always_use_fallback_user_dictionary">Naudoti „privatų žodyną“ vietovėję</string>
-    <string name="always_use_fallback_user_dictionary_on_summary">Naudoti privačia vietovę „AnySoftKeyboard“\(-os) įrengta naudotojo žodyno mechanizmas.</string>
+    <string name="always_use_fallback_user_dictionary_on_summary">Naudoti privačia vietovę „SadSha Keyboard“\(-os) įrengta naudotojo žodyno mechanizmas.</string>
     <string name="always_use_fallback_user_dictionary_off_summary">Mėginti naudoti „Android“ sistemos vartotojo žodyną.</string>
     <string name="use_auto_dictionary">Auto žodynas</string>
     <string name="use_auto_dictionary_dialog_title">Pasirinkite mokymosi režimą</string>
@@ -328,8 +328,8 @@
     <string name="lang_key_shows_popup_on_summary">Kalbos klavišas parodys pasirinkimo dialogą</string>
     <string name="lang_key_shows_popup_off_summary">Kalbos klavišas eis ciklu per kalbas</string>
     <string name="settings_os_clipboard_sync">Sinchronizuoti iškarpinę su OS</string>
-    <string name="settings_os_clipboard_sync_summary_on">Sekti pasikeitimus iškarpinėje ir sinchronizuoti su „AnySoftKeyboard“.</string>
-    <string name="settings_os_clipboard_sync_summary_off">Nesekti pokyčių iškarpinėje už „AnySoftKeyboard“ ribų.</string>
+    <string name="settings_os_clipboard_sync_summary_on">Sekti pasikeitimus iškarpinėje ir sinchronizuoti su „SadSha Keyboard“.</string>
+    <string name="settings_os_clipboard_sync_summary_off">Nesekti pokyčių iškarpinėje už „SadSha Keyboard“ ribų.</string>
     <string name="auto_caps">Automatinės didžiosios raidės</string>
     <string name="grammar_group">Gramatika</string>
     <string name="keyboard_behavior_group">Klaviatūros elgsena</string>
@@ -473,11 +473,11 @@
     <string name="settings_long_press_timeout_slower">Lėčiau</string>
     <string name="settings_long_press_timeout_never">Niekada</string>
     <string name="settings_force_locale_title">Programos kalba</string>
-    <string name="settings_force_locale_summary">„AnySoftKeyboard“ viduje naudojama kalba (pakeitimas pasimatys vėliau). Šiuo metu: %s.</string>
+    <string name="settings_force_locale_summary">„SadSha Keyboard“ viduje naudojama kalba (pakeitimas pasimatys vėliau). Šiuo metu: %s.</string>
     <string name="tweak_workarounds_group">Apėjimai</string>
     <string name="workaround_disable_rtl_fix">Išjungti iš dešinės į kairę valdymą</string>
     <string name="workaround_disable_rtl_fix_summary_on">Naudoti OS RTL valdymą (SE telefonams)</string>
-    <string name="workaround_disable_rtl_fix_summary_off">Naudoti „AnySoftKeyboard“ RTL valdymą. Turėtų būti naudojamas tik jei OS nevaldo RTL.</string>
+    <string name="workaround_disable_rtl_fix_summary_off">Naudoti „SadSha Keyboard“ RTL valdymą. Turėtų būti naudojamas tik jei OS nevaldo RTL.</string>
     <string name="settings_split_state_title_portrait">Perskelto/Sulieto išdėstymo pradinė būsena vertikalioje padėtyje</string>
     <string name="settings_split_state_title_landscape">Perskelto/Sulieto išdėstymo pradinė būsena horizontalioje padėtyje</string>
     <string name="settings_split_state_summary">Apibrėžti ar klaviatūros perskėlimas bus numatytasis. Dabar: %s</string>
@@ -523,14 +523,14 @@
     <string name="emoji_default_gender_value_random_type">Atsitiktinė lytis</string>
     <string name="developer_tools">Programų kūrėjų įrankiai</string>
     <string name="click_for_developer_features">Programų kūrėjų įrankiai</string>
-    <string name="click_for_developer_features_summary">Įvairūs įrankiai „AnySoftKeyboard“ kūrėjams</string>
+    <string name="click_for_developer_features_summary">Įvairūs įrankiai „SadSha Keyboard“ kūrėjams</string>
     <string name="failed_to_create_mem_dump">Nepavyko sukurti atminties iškelties failo dėl:
         <xliff:g id="message">%s</xliff:g>
     </string>
     <string name="created_mem_dump_file">Sukurtas atminties iškelties failas:
         <xliff:g id="file_path">%s</xliff:g>
     </string>
-    <string name="not_configured_with_click_here">„AnySoftKeyboard“ nėra visiškai parengta naudoti. Spauskite čia, kad parengti.</string>
+    <string name="not_configured_with_click_here">„SadSha Keyboard“ nėra visiškai parengta naudoti. Spauskite čia, kad parengti.</string>
     <string name="not_configured_with_just_click_here">Spauskite čia</string>
     <!--  Strings for possible PreferenceActivity Back/Next buttons -->
     <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
@@ -543,26 +543,26 @@
     <string name="enter_abbreviation_target_hint">Pilnas sakinys</string>
     <string name="toast_error_custom_path_backup">Klaida: Jokia „Kontekstinė“ programa negalėjo būti atidaryti</string>
     <string name="about_additional_software_licenses">Papildomos programinės įrangos licencijos</string>
-    <string name="setup_wizard_step_one_title">Įjungti „AnySoftKeyboard“</string>
-    <string name="setup_wizard_step_one_details">Šiame žingsnelyje jums reikia įjungti „<i>AnySoftKeyboard</i>“. Pažymėkite „<i>AnySoftKeyboard</i>“ <i>Kalba ir įvestis</i> nustatymuose. Tai leis klaviatūrai veikti jūsų įrenginyje.</string>
+    <string name="setup_wizard_step_one_title">Įjungti „SadSha Keyboard“</string>
+    <string name="setup_wizard_step_one_details">Šiame žingsnelyje jums reikia įjungti „<i>SadSha Keyboard</i>“. Pažymėkite „<i>SadSha Keyboard</i>“ <i>Kalba ir įvestis</i> nustatymuose. Tai leis klaviatūrai veikti jūsų įrenginyje.</string>
     <string name="setup_wizard_step_one_action">Eikite į savo <i>Kalbos ir įvesties nustatymus</i>…</string>
-    <string name="setup_wizard_step_one_action_error_no_settings_activity">Klaida: Jūsų įrenginys nepalaiko 3-iosios šalies klaviatūrų. „AnySoftKeyboard“ negali būti aktyvuota!</string>
+    <string name="setup_wizard_step_one_action_error_no_settings_activity">Klaida: Jūsų įrenginys nepalaiko 3-iosios šalies klaviatūrų. „SadSha Keyboard“ negali būti aktyvuota!</string>
     <string name="setup_wizard_step_permissions_title">Suteikti teises</string>
-    <string name="setup_wizard_step_two_title">Perjungti į „AnySoftKeyboard“</string>
-    <string name="setup_wizard_step_two_details">Dabar jūsų sistema gali naudoti „<i>AnySoftKeyboard</i>“, tačiau ji nenustatyta kaip aktyvi klaviatūra.\nPerjungus, „<i>AnySoftKeyboard</i>“ bus jūsų naujoji klaviatūra, kartu su visomis funkcijomis!</string>
+    <string name="setup_wizard_step_two_title">Perjungti į „SadSha Keyboard“</string>
+    <string name="setup_wizard_step_two_details">Dabar jūsų sistema gali naudoti „<i>SadSha Keyboard</i>“, tačiau ji nenustatyta kaip aktyvi klaviatūra.\nPerjungus, „<i>SadSha Keyboard</i>“ bus jūsų naujoji klaviatūra, kartu su visomis funkcijomis!</string>
     <string name="setup_wizard_step_two_action">Perjungti aktyvias klaviatūras</string>
     <string name="setup_wizard_step_three_title">Kas toliau</string>
-    <string name="setup_wizard_step_three_details">Dėkojame, kad pasirinkote „<i>AnySoftKeyboard</i>“.</string>
+    <string name="setup_wizard_step_three_details">Dėkojame, kad pasirinkote „<i>SadSha Keyboard</i>“.</string>
     <string name="setup_wizard_step_three_details_done"><b>Baigta 🎉\nEikite į savo mėgstamą programą, kad išbandyti.</b></string>
     <string name="setup_wizard_step_three_details_actions">Arba galite pritaikyti ir suasmeninti klaviatūrą pagal savo skonį:</string>
     <string name="setup_wizard_step_three_action_languages">Nustatyti kalbas…</string>
     <string name="setup_wizard_step_three_action_themes">Pasirinkti temą…</string>
     <string name="setup_wizard_step_three_action_all_settings">Nustatyti visa kita…</string>
     <string name="setup_wizard_step_download_title">Atsisiųsti kalbų paketus</string>
-    <string name="setup_wizard_step_download_details">Jums bus malonu žinoti, kad „<i>AnySoftKeyboard</i>“ palaiko keliasdešimt kalbų. Tiesiog atsisiųskite norimą kalbos paketą ir mėgaukitės rašydami bet kuria jūsų įrenginyje esančia kalba.</string>
+    <string name="setup_wizard_step_download_details">Jums bus malonu žinoti, kad „<i>SadSha Keyboard</i>“ palaiko keliasdešimt kalbų. Tiesiog atsisiųskite norimą kalbos paketą ir mėgaukitės rašydami bet kuria jūsų įrenginyje esančia kalba.</string>
     <string name="setup_wizard_step_download_action">Atsisiųsti kalbos paketą</string>
     <string name="setup_wizard_step_download_skip_action">Praleisti</string>
-    <string name="ime_crashed_text">Deja, yra problema su „<i>AnySoftKeyboard</i>“. Nepanikuokite, yra kai kas, ka <b>jūs</b> galite padaryti, kad tai ištaisyti: atsiųskite mums nulūžimo ataskaitą ir mes padarysime ką galėsime, kad tai ištaisytumėme!\n\nSu nuoširdžiu atsiprašymu, kūrėjų komanda.</string>
+    <string name="ime_crashed_text">Deja, yra problema su „<i>SadSha Keyboard</i>“. Nepanikuokite, yra kai kas, ka <b>jūs</b> galite padaryti, kad tai ištaisyti: atsiųskite mums nulūžimo ataskaitą ir mes padarysime ką galėsime, kad tai ištaisytumėme!\n\nSu nuoširdžiu atsiprašymu, kūrėjų komanda.</string>
     <string name="ime_crashed_send_button">Siųsti</string>
     <string name="ime_crashed_cancel_button">Atšaukti</string>
     <string name="ime_crashed_intent_selector_title">Nusiųsti nulūžimo ataskaitą per</string>
@@ -581,7 +581,7 @@
     <string name="wizard_allow_contacts_permission">Leisti pasiūlymus, paremtus kontaktų informacija</string>
     <string name="turn_off_contacts_dictionary">Išjungti kontaktų žodyną</string>
     <string name="read_more_about_permissions">Skaityti daugiau apie teises…</string>
-    <string name="ask_beta_link_promo">Ei! Norite naujų „<i>AnySoftKeyboard</i>“ funkcijų greičiau? Tada jums pasisekė! <b>JUMS</b> jau prieinamas <i>BETA</i> kanalas!\nTiesiog užsiregistruokite per žemiau esančią nuorodą į „<i>Google Play</i>“ programų parduotuvę ir atnaujinkite duomenis!\n\n https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nIr ačiū, kad padedat šalinti klaidas, iki pakeitimai tampa viešai prieinami.</string>
+    <string name="ask_beta_link_promo">Ei! Norite naujų „<i>SadSha Keyboard</i>“ funkcijų greičiau? Tada jums pasisekė! <b>JUMS</b> jau prieinamas <i>BETA</i> kanalas!\nTiesiog užsiregistruokite per žemiau esančią nuorodą į „<i>Google Play</i>“ programų parduotuvę ir atnaujinkite duomenis!\n\n https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nIr ačiū, kad padedat šalinti klaidas, iki pakeitimai tampa viešai prieinami.</string>
     <string name="clipboard_fine_select_enabled_toast">Įjungtas tikslus teksto pasirinkimas. Naudokite „į kairę“ / „į dešinę“ rodykles.</string>
     <string name="app_shortcut_keyboards_disabled">Klaviatūrų naršymas išjungtas</string>
     <string name="app_shortcut_keyboards_long_label">Išsirinkite klaviatūros išdėstymus</string>
@@ -605,11 +605,11 @@
     <string name="no_internet_fields_specific_layout">Nėra</string>
     <string name="bottom_nav_home">Sveiki</string>
     <string name="setup_wizard_welcome_title">Sveikiname!</string>
-    <string name="setup_wizard_welcome_sub_title">Ačiū, kad nusprendėte išbandyti „AnySoftKeyboard“!</string>
-    <string name="setup_wizard_welcome_info">Turite leisti (kaip ir bet kurios kitos „Android“ klaviatūros) „AnySoftKeyboard“ naudojimą „Android“ nustatymų puslapiuose. Tai yra „Android“ reikalavimas, kad jūsų renkamų duomenų negalėtų pavogti, klaviatūromis apsimetančios, kenksmingos programos*.</string>
+    <string name="setup_wizard_welcome_sub_title">Ačiū, kad nusprendėte išbandyti „SadSha Keyboard“!</string>
+    <string name="setup_wizard_welcome_info">Turite leisti (kaip ir bet kurios kitos „Android“ klaviatūros) „SadSha Keyboard“ naudojimą „Android“ nustatymų puslapiuose. Tai yra „Android“ reikalavimas, kad jūsų renkamų duomenų negalėtų pavogti, klaviatūromis apsimetančios, kenksmingos programos*.</string>
     <string name="setup_wizard_welcome_info_2">Pasiruošę? Spustelėkite žemiau, kad pradėti. Aš jums padėsiu.</string>
     <string name="setup_wizard_welcome_start_action">Pradėti diegimą…</string>
-    <string name="setup_wizard_welcome_info_footnote">* Žinoma, „AnySoftKeyboard“ nėra kenksmingo kodo. Kviečiame peržvelgti programos išeities kodą ir įsitikinti tuo. Be to, neturime <i>NETWORK</i> leidimų, todėl negalime siųsti jokių duomenų iš įrenginio.</string>
+    <string name="setup_wizard_welcome_info_footnote">* Žinoma, „SadSha Keyboard“ nėra kenksmingo kodo. Kviečiame peržvelgti programos išeities kodą ir įsitikinti tuo. Be to, neturime <i>NETWORK</i> leidimų, todėl negalime siųsti jokių duomenų iš įrenginio.</string>
     <string name="setup_wizard_welcome_privacy_action">Į Privatumo Politiką…</string>
     <string name="setup_wizard_skip">Praleisti</string>
     <string name="clear_all_dictionary_override">Išvalyti nustelbimus</string>
@@ -657,10 +657,10 @@
     <string name="aosp_dark_theme_description">AOSP pavyzdžio tamsių spalvų klaviatūros tema</string>
     <string name="aosp_light_theme_name">AOSP šviesi tema</string>
     <string name="aosp_light_theme_description">AOSP pavyzdžio šviesių spalvų klaviatūros tema</string>
-    <string name="app_share_title">Sveiki iš „AnySoftKeyboard“</string>
-    <string name="app_share_menu_title">Bendrinti „AnySoftKeyboard“ naudojant</string>
+    <string name="app_share_title">Sveiki iš „SadSha Keyboard“</string>
+    <string name="app_share_menu_title">Bendrinti „SadSha Keyboard“ naudojant</string>
     <string name="app_share_text">Leiskite man rekomenduoti atviro kodo, privatumo-orientuota, nemokamą, daugumos kalbų „Android“ klaviatūrą
-„AnySoftKeyboard“!\nGaukite ją iš:\n„Google Play Parduotuvės“: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\n„F-Droid“: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
+„SadSha Keyboard“!\nGaukite ją iš:\n„Google Play Parduotuvės“: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\n„F-Droid“: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">spausk mane dėl siurprizo</string>
     <string name="delete_all_clipboard_entries">Tuštinti mainų sritį</string>
     <string name="tip_swipe_from_backspace_to_clear">Patarimas: Jūs gali slinkti kairėn nuo atgal mygtuko, kad pašalintumėte žodį!</string>

@@ -6,7 +6,7 @@
     </string>
     <string name="debug_tracing_finished">Afturrakningu lokið!\nRakningarskráin er\u0020<xliff:g id="trace_file">%s</xliff:g></string>
     <string name="menu_about_item">Um hugbúnaðinn</string>
-    <string name="how_to_pointer_title">Velkomin í AnySoftKeyboard</string>
+    <string name="how_to_pointer_title">Velkomin í SadSha Keyboard</string>
     <string name="change_log_card_version_title_template">\u0020\u0020Nýjustu breytingar fyrir útgáfu <xliff:g id="name">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_entry_header_template_without_name">\u0020\u0020v<xliff:g id="code">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_url">Meira:\u0020<xliff:g id="url">%s</xliff:g></string>
@@ -68,7 +68,7 @@
     <string name="night_mode_sound_control">Gera ásláttarhljóð óvirk</string>
     <string name="night_mode_vibration_control">Gera ásláttartitring óvirkan</string>
     <string name="power_save_mode_screen">Orkusparnaðarstillingar</string>
-    <string name="power_save_mode_description">Orkusparnaðarhamur mun minnka orkunotkun AnySoftKeyboard með því að gera eiginleika óvirka:</string>
+    <string name="power_save_mode_description">Orkusparnaðarhamur mun minnka orkunotkun SadSha Keyboard með því að gera eiginleika óvirka:</string>
     <string name="power_save_mode_state_summary">Eins og er mun orkusparnaður virkja:\u0020%s</string>
     <string name="power_save_mode_dialog_title">Virkja orkusparnaðarham</string>
     <string name="power_save_mode_types_never">Aldrei</string>
@@ -217,11 +217,11 @@
     <string name="volume_key_for_left_right_support_off_summary">Hljóðstyrkur upp hreyfir bendilinn til vinstri, hljóðstyrkur niður hreyfir bendilinn til hægri</string>
     <string name="more_ui_settings_group">Notandaviðmót</string>
     <string name="special_dictionaries_group">Sérstök orðasöfn</string>
-    <string name="special_dictionaries_group_summary">Orðasöfn tillagna fyrir AnySoftKeyboard</string>
+    <string name="special_dictionaries_group_summary">Orðasöfn tillagna fyrir SadSha Keyboard</string>
     <string name="use_user_dictionary">Orðasafn notanda</string>
     <string name="use_user_dictionary_on_summary">Stinga upp á orðum sem notandi bætti við (tvísmelltu á tillögu til að bæta við)</string>
     <string name="always_use_fallback_user_dictionary">Nota einkageymslu undir orðasafn notanda</string>
-    <string name="always_use_fallback_user_dictionary_on_summary">Nota einkageymslukerfi AnySoftKeyboard undir orðasafn notanda.</string>
+    <string name="always_use_fallback_user_dictionary_on_summary">Nota einkageymslukerfi SadSha Keyboard undir orðasafn notanda.</string>
     <string name="always_use_fallback_user_dictionary_off_summary">Prófa að nota víðvært orðasafn notanda innbyggt í Android.</string>
     <string name="use_auto_dictionary">Sjálfvirkt orðasafn</string>
     <string name="use_auto_dictionary_dialog_title">Veldu námsaðferð</string>
@@ -307,7 +307,7 @@
     <string name="always_hide_language_key_off_summary">Mun aðeins birta tungumálalykilinn ef margar framsetningar eru virkar.
     </string>
     <string name="show_crash_notification">Senda tilkynningar um hrun</string>
-    <string name="show_crash_notification_on_summary">Við hrun á AnySoftKeyboard skal opna hrunskýrsluglugga
+    <string name="show_crash_notification_on_summary">Við hrun á SadSha Keyboard skal opna hrunskýrsluglugga
     </string>
     <string name="show_crash_notification_off_summary">Meðhöndla hrun hljóðlega</string>
     <string name="use_keyrepeat">Nota lyklaborðsendurtekningar</string>
@@ -354,8 +354,8 @@
     <string name="lang_key_shows_popup_on_summary">Tungumálslykill mun birta valglugga</string>
     <string name="lang_key_shows_popup_off_summary">Tungumálslykill mun fletta í gegnum tungumál</string>
     <string name="settings_os_clipboard_sync">Samstilla klippispjald við stýrikerfi</string>
-    <string name="settings_os_clipboard_sync_summary_on">Finna breytingar á klippispjaldi og samstilla við AnySoftKeyboard.</string>
-    <string name="settings_os_clipboard_sync_summary_off">Ekki fylgjast með breytingum á klippispjaldi utan við AnySoftKeyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_on">Finna breytingar á klippispjaldi og samstilla við SadSha Keyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_off">Ekki fylgjast með breytingum á klippispjaldi utan við SadSha Keyboard.</string>
     <string name="auto_caps">Sjálfvirkir hástafir/lágstafir</string>
     <string name="grammar_group">Málfræði</string>
     <string name="keyboard_behavior_group">Hegðun lyklaborðs</string>
@@ -506,14 +506,14 @@
     <string name="settings_long_press_timeout_slower">Hægar</string>
     <string name="settings_long_press_timeout_never">Aldrei</string>
     <string name="settings_force_locale_title">Þvinga staðfærslu</string>
-    <string name="settings_force_locale_summary">Þvinga fram staðfærsluna sem notuð er innan AnySoftKeyboard (tekur tíma til að hafa áhrif). Fyrirliggjandi er: %s.
+    <string name="settings_force_locale_summary">Þvinga fram staðfærsluna sem notuð er innan SadSha Keyboard (tekur tíma til að hafa áhrif). Fyrirliggjandi er: %s.
     </string>
     <string name="tweak_workarounds_group">Framhjáleiðir</string>
     <string name="workaround_disable_rtl_fix">Nota meðhöndlun Android á hægri-til-vinstri texta</string>
     <string name="workaround_disable_rtl_fix_summary_on">Nota RTL-meðhöndlun stýrikerfis. Ætti að virka vel
         á nýrri tækjum.
     </string>
-    <string name="workaround_disable_rtl_fix_summary_off">Nota RTL-meðhöndlun AnySoftKeyboard. Ætti
+    <string name="workaround_disable_rtl_fix_summary_off">Nota RTL-meðhöndlun SadSha Keyboard. Ætti
         aðeins að nota ef stýrikerfi mistekst RTL.
     </string>
     <string name="settings_split_state_title_portrait">Upphafleg staða Skipt/Sameinað lóðrétt</string>
@@ -576,7 +576,7 @@
     <string name="emoji_default_gender_value_random_type">Kyn af handahófi</string>
     <string name="developer_tools">Forritaraverkfæri</string>
     <string name="click_for_developer_features">Forritaraverkfæri</string>
-    <string name="click_for_developer_features_summary">Ýmis verkfæri fyrir AnySoftKeyboard
+    <string name="click_for_developer_features_summary">Ýmis verkfæri fyrir SadSha Keyboard
         hönnuði
     </string>
     <string name="failed_to_create_mem_dump">Mistókst að búa til minnisdembuskrá vegna:
@@ -585,10 +585,10 @@
     <string name="created_mem_dump_file">Útbjó minnisdembuskrá í:
         <xliff:g id="file_path">%s</xliff:g>
     </string>
-    <string name="not_configured_with_click_here">AnySoftKeyboard er ekki að fullu uppsett til notkunar. Smelltu
+    <string name="not_configured_with_click_here">SadSha Keyboard er ekki að fullu uppsett til notkunar. Smelltu
         hér til að setja það uppp.
     </string>
-    <string name="not_notification_permission_text">AnySoftKeyboard er ekki með heimildir til að birta tilkynningar. Það gæti þurft að láta þig vita um alvarleg vandamál (eins og hrun).</string>
+    <string name="not_notification_permission_text">SadSha Keyboard er ekki með heimildir til að birta tilkynningar. Það gæti þurft að láta þig vita um alvarleg vandamál (eins og hrun).</string>
     <string name="not_configured_with_just_click_here">Smelltu hér</string>
     <!--  Strings for possible PreferenceActivity Back/Next buttons -->
     <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
@@ -601,25 +601,25 @@
     <string name="enter_abbreviation_target_hint">Heil setning</string>
     <string name="toast_error_custom_path_backup">Villa: Eitthvað tengt forrit gæti verið opið</string>
     <string name="about_additional_software_licenses">Viðbótar-notkunarleyfi</string>
-    <string name="setup_wizard_step_one_title">Virkja AnySoftKeyboard</string>
+    <string name="setup_wizard_step_one_title">Virkja SadSha Keyboard</string>
     <string name="setup_wizard_step_one_details">Í þessu skrefi þarft þú að virkja <i>
-        AnySoftKeyboard</i>. Merktu við <i>\'AnySoftKeyboard\'</i> í stillingum þínum fyrir <i>Tungumál og 
+        SadSha Keyboard</i>. Merktu við <i>\'SadSha Keyboard\'</i> í stillingum þínum fyrir <i>Tungumál og 
         innsláttur</i>. Það gerir forritinu kleift að keyra á tækinu þínu.
     </string>
     <string name="setup_wizard_step_one_action">Farðu í stillingar þínar fyrir <i>Tungumál og innsláttur</i>…
     </string>
     <string name="setup_wizard_step_one_action_error_no_settings_activity">Villa: Tækið þitt styður ekki
-        lyklaborð frá utanaðkomandi aðilum. Ekki er hægt að virkja AnySoftKeyboard!
+        lyklaborð frá utanaðkomandi aðilum. Ekki er hægt að virkja SadSha Keyboard!
     </string>
     <string name="setup_wizard_step_permissions_title">Virkja heimildir</string>
-    <string name="setup_wizard_step_two_title">Skipta yfir í AnySoftKeyboard</string>
-    <string name="setup_wizard_step_two_details">Kerfið þitt getur núna notað <i>AnySoftKeyboard</i>, en það
-        er ekki stillt sem virka lyklaborðið.\nMeð því að skipta um, mun <i>AnySoftKeyboard</i> verða nýja
+    <string name="setup_wizard_step_two_title">Skipta yfir í SadSha Keyboard</string>
+    <string name="setup_wizard_step_two_details">Kerfið þitt getur núna notað <i>SadSha Keyboard</i>, en það
+        er ekki stillt sem virka lyklaborðið.\nMeð því að skipta um, mun <i>SadSha Keyboard</i> verða nýja
         skjályklaborðið þitt, með öllum sínum eiginleikum!
     </string>
     <string name="setup_wizard_step_two_action">Skipta um virkt lyklaborð</string>
     <string name="setup_wizard_step_three_title">Hvað næst</string>
-    <string name="setup_wizard_step_three_details">Takk fyrir að velja <i>AnySoftKeyboard</i>.
+    <string name="setup_wizard_step_three_details">Takk fyrir að velja <i>SadSha Keyboard</i>.
     </string>
     <string name="setup_wizard_step_three_details_done">
         <b>Þessu er lokið 🎉\nFarðu í eftirlætisforritið þitt til að próf þetta.</b>
@@ -631,11 +631,11 @@
     <string name="setup_wizard_step_three_action_themes">Veldu þema…</string>
     <string name="setup_wizard_step_three_action_all_settings">Grunnstilltu allt hitt…</string>
     <string name="setup_wizard_step_download_title">Sækja tungumálapakka</string>
-    <string name="setup_wizard_step_download_details">Þú ættir að gleðjast yfir því að <i>AnySoftKeyboard</i> styður fjölmörg tungumál. Það þarf bara að sækja þann tungumálapakka sem þú óskar þér og byrja strax að skrifa á
+    <string name="setup_wizard_step_download_details">Þú ættir að gleðjast yfir því að <i>SadSha Keyboard</i> styður fjölmörg tungumál. Það þarf bara að sækja þann tungumálapakka sem þú óskar þér og byrja strax að skrifa á
         viðkomandi tungumáli á tækinu þínu.</string>
     <string name="setup_wizard_step_download_action">Sækja tungumálapakka</string>
     <string name="setup_wizard_step_download_skip_action">Sleppa</string>
-    <string name="ime_crashed_text">Því miður hefur komið upp vandamál með <i>AnySoftKeyboard</i>.
+    <string name="ime_crashed_text">Því miður hefur komið upp vandamál með <i>SadSha Keyboard</i>.
         Ekki fara í kerfi, það er eitt sem <b>þú</b> getur gert til að hjálpa við að leysa þetta: sendu hrunskýrsluna
         og við munum gera okkar besta til að leysa málið varðandi svona hrun, svo þú náir aftur að nota frábæra lyklaborðið okkar.
         Með bestu kveðjum frá forritunarteyminu.
@@ -658,7 +658,7 @@
     <string name="wizard_allow_contacts_permission">Leyfa tillögur byggðar á tengiliðum</string>
     <string name="turn_off_contacts_dictionary">Slökkva á orðasafni tengiliða</string>
     <string name="read_more_about_permissions">Lestu meira um heimildir…</string>
-    <string name="ask_beta_link_promo">Hey! Viltu nýtt dót frá <i>AnySoftKeyboard</i> hraðar? Þá dastu í lukkupottinn! Við erum með <i>BETA</i>-rás fyrirliggjandi sem <b>ÞÚ</b> getur notað!\nSkráðu þig bara á tenglinum hér fyrir neðan, og uppfærðu síðan í gegnum <i>Google Play</i> forritasafnið!\n\n
+    <string name="ask_beta_link_promo">Hey! Viltu nýtt dót frá <i>SadSha Keyboard</i> hraðar? Þá dastu í lukkupottinn! Við erum með <i>BETA</i>-rás fyrirliggjandi sem <b>ÞÚ</b> getur notað!\nSkráðu þig bara á tenglinum hér fyrir neðan, og uppfærðu síðan í gegnum <i>Google Play</i> forritasafnið!\n\n
         https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nOg bestu þakkir fyrir að hjálpa til við að útrýma göllum áður en þeir dreifast til almennings.
     </string>
     <string name="clipboard_fine_select_enabled_toast">Fínlegt val texta er virkt. Notaðu vinstri/hægri örvarnar.</string>
@@ -684,13 +684,13 @@
     <string name="no_internet_fields_specific_layout">Ekkert</string>
     <string name="bottom_nav_home">Halló</string>
     <string name="setup_wizard_welcome_title">Velkomin!</string>
-    <string name="setup_wizard_welcome_sub_title">Takk fyrir að prófa AnySoftKeyboard!
+    <string name="setup_wizard_welcome_sub_title">Takk fyrir að prófa SadSha Keyboard!
     </string>
-    <string name="setup_wizard_welcome_info">Eins og með hvert annað Android-lyklaborð, þarft þú að virkja AnySoftKeyboard á stillingasíðu Android-kerfisins. Þessa er krafist af Android til að tryggja að gögnunum sem þú skrifar sé ekki stolið af lyklaborðum frá óprúttnum aðilum*.
+    <string name="setup_wizard_welcome_info">Eins og með hvert annað Android-lyklaborð, þarft þú að virkja SadSha Keyboard á stillingasíðu Android-kerfisins. Þessa er krafist af Android til að tryggja að gögnunum sem þú skrifar sé ekki stolið af lyklaborðum frá óprúttnum aðilum*.
     </string>
     <string name="setup_wizard_welcome_info_2">Ertu tilbúin/n? Smelltu hér fyrir neðan til að byrja, þú færð leiðsögn í gegnum ferlið.</string>
     <string name="setup_wizard_welcome_start_action">Hefja uppsetningu…</string>
-    <string name="setup_wizard_welcome_info_footnote">* Að sjálfsögðu er AnySoftKeyboard ekki með neitt illt í pokahorninu.
+    <string name="setup_wizard_welcome_info_footnote">* Að sjálfsögðu er SadSha Keyboard ekki með neitt illt í pokahorninu.
         Þér er velkomið að skoða grunnkóðann okkar og staðfesta það. Að auki er forritið ekki með heimildir fyrir <i>NETKERFI</i>, þannig að ekki er hægt að senda nein gögn af tækinu.
     </string>
     <string name="setup_wizard_welcome_privacy_action">Skoða meðferð persónuupplýsinga…</string>
@@ -741,16 +741,16 @@
     <string name="aosp_dark_theme_description">AOSP-líkt lyklaborðsþema með dökkum litum</string>
     <string name="aosp_light_theme_name">AOSP ljóst þema</string>
     <string name="aosp_light_theme_description">AOSP-líkt lyklaborðsþema með ljósum litum</string>
-    <string name="app_share_title">Halló frá AnySoftKeyboard</string>
-    <string name="app_share_menu_title">Deila AnySoftKeyboard með</string>
-    <string name="app_share_text">Ég mæli með AnySoftKeyboard lyklaborðinu fyrir Android, með opinn grunnkóða, áherslu á persónuvernd, er ókeypis og verulega sérsníðanlegt með mörgum tungumálum.\nNáðu í það frá:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_title">Halló frá SadSha Keyboard</string>
+    <string name="app_share_menu_title">Deila SadSha Keyboard með</string>
+    <string name="app_share_text">Ég mæli með SadSha Keyboard lyklaborðinu fyrir Android, með opinn grunnkóða, áherslu á persónuvernd, er ókeypis og verulega sérsníðanlegt með mörgum tungumálum.\nNáðu í það frá:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">smelltu á mig til að sjá nokkuð skondið</string>
     <string name="delete_all_clipboard_entries">Autt klippispjald</string>
     <string name="tip_swipe_from_backspace_to_clear">Ábending: Þú getur strokið til vinstri af bakk-lykli til að hreinsa orðið!</string>
     <string name="notification_read_contacts_ticker">Heimildir fyrir tengiliði vantar</string>
     <string name="notification_action_approve_permission">Samþykkja heimild</string>
     <string name="notification_action_dismiss_permission">Gera orðasafn óvirkt í tengiliðaskrá</string>
-    <string name="wizard_allow_notification_permission">Leyfa tilkynningar frá AnySoftKeyboard</string>
+    <string name="wizard_allow_notification_permission">Leyfa tilkynningar frá SadSha Keyboard</string>
     <string name="setup_wizard_step_notification_permissions_details">Í einstaka tilfellum (t.d. þegar forritið hrynur) þarf að birta tilkynningu á tækinu. Mælt er með því að það sé leyft, en þótt tilkynningar séu ekki leyfðar hefur það ekki áhrif á hegðun forritsins.</string>
     <string name="wizard_skip_notification_permission">Ekki leyfa tilkynningar</string>
     <string name="touch_trajectory_correction_title">Leiðrétting snertiferils</string>

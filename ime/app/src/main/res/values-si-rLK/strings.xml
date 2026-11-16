@@ -7,7 +7,7 @@
     </string>
     <string name="debug_tracing_finished">ලුහුබැඳීම අවසන්!\nට්‍රේස් ගොනුව\u0020<xliff:g id="trace_file">%s</xliff:g>වේ</string>
     <string name="menu_about_item">පිලිබඳව</string>
-    <string name="how_to_pointer_title">AnySoftKeyboard වෙත සාදරයෙන් පිළිගනිමු</string>
+    <string name="how_to_pointer_title">SadSha Keyboard වෙත සාදරයෙන් පිළිගනිමු</string>
     <string name="change_log_card_version_title_template">\u0020\u0020v<xliff:g id="name">%s</xliff:g>\u0020\u0020සඳහා නවතම වෙනස්කම්</string>
     <string name="change_log_url">තවත්:\u0020<xliff:g id="url">%s</xliff:g></string>
     <string name="notification_text_testers">මෙය බීටා අනුවාදයකි. පරිස්සමෙන් භාවිතා කරන්න!</string>
@@ -69,7 +69,7 @@
     <string name="night_mode_sound_control">යතුරු එබීම් ශබ්ද අක්‍රීය කරන්න</string>
     <string name="night_mode_vibration_control">යතුරු එබීම් කම්පන අක්‍රීය කරන්න</string>
     <string name="power_save_mode_screen">බලශක්ති ඉතිරිකිරීමේ සැකසුම්</string>
-    <string name="power_save_mode_description">බලශක්ති ඉතිරිකිරීමේ මාදිලිය විශේෂාංග අක්‍රිය කිරීමෙන් AnySoftKeyboard හි බලශක්ති පරිභෝජනය අඩු කරයි:</string>
+    <string name="power_save_mode_description">බලශක්ති ඉතිරිකිරීමේ මාදිලිය විශේෂාංග අක්‍රිය කිරීමෙන් SadSha Keyboard හි බලශක්ති පරිභෝජනය අඩු කරයි:</string>
     <string name="power_save_mode_state_summary">දැනට, බලශක්ති ඉතිරි කිරීමේ ප්‍රේරකය:\u0020%s</string>
     <string name="power_save_mode_dialog_title">බලශක්ති ඉතිරිකිරීමේ මාදිලිය සක්රිය කරන්න</string>
     <string name="power_save_mode_types_never">කවදාවත් නැහැ</string>
@@ -222,11 +222,11 @@
     <string name="volume_key_for_left_right_support_off_summary">ශබ්දය වැඩි කිරීම කර්සරය වමට හරවයි, ශබ්දය අඩු කිරීම කර්සරය දකුණට හරවයි</string>
     <string name="more_ui_settings_group">පරිශීලක අතුරුමුහුණත</string>
     <string name="special_dictionaries_group">විශේෂ ශබ්දකෝෂ</string>
-    <string name="special_dictionaries_group_summary">AnySoftKeyboard හි භාවිතා වන යෝජනා ශබ්දකෝෂ</string>
+    <string name="special_dictionaries_group_summary">SadSha Keyboard හි භාවිතා වන යෝජනා ශබ්දකෝෂ</string>
     <string name="use_user_dictionary">පරිශීලක ශබ්ද කෝෂය</string>
     <string name="use_user_dictionary_on_summary">පරිශීලක එකතු කළ වචන යෝජනා කරන්න (එකතු කිරීමට ටයිප් කළ-යෝජනාවක් දෙවරක් ක්ලික් කරන්න)</string>
     <string name="always_use_fallback_user_dictionary">පුද්ගලික පරිශීලක ශබ්ද කෝෂ ගබඩාව භාවිතා කරන්න</string>
-    <string name="always_use_fallback_user_dictionary_on_summary">පුද්ගලික ගබඩා AnySoftKeyboard හි අන්තර්ගත පරිශීලක ශබ්ද කෝෂ යාන්ත්‍රණය භාවිතා කරන්න.</string>
+    <string name="always_use_fallback_user_dictionary_on_summary">පුද්ගලික ගබඩා SadSha Keyboard හි අන්තර්ගත පරිශීලක ශබ්ද කෝෂ යාන්ත්‍රණය භාවිතා කරන්න.</string>
     <string name="always_use_fallback_user_dictionary_off_summary">Android හි ගෝලීය බිල්ට් පරිශීලක ශබ්ද කෝෂය භාවිතා කිරීමට උත්සාහ කරන්න.</string>
     <string name="use_auto_dictionary">ස්වයං ශබ්ද කෝෂය</string>
     <string name="use_auto_dictionary_dialog_title">ඉගෙනීමේ ක්‍රමය තෝරන්න</string>
@@ -359,8 +359,8 @@
     <string name="lang_key_shows_popup_on_summary">භාෂා යතුර තේරීමේ සංවාදයක් උත්පතන කරනු ඇත</string>
     <string name="lang_key_shows_popup_off_summary">භාෂා යතුර භාෂා චක්‍රීය කරයි</string>
     <string name="settings_os_clipboard_sync">OS සමඟ පසුරු පුවරුව සමමුහුර්ත කරන්න</string>
-    <string name="settings_os_clipboard_sync_summary_on">ක්ලිප්බෝඩ් වෙනස්කම් හඳුනාගෙන AnySoftKeyboard සමඟ සමමුහුර්ත කරන්න.</string>
-    <string name="settings_os_clipboard_sync_summary_off">AnySoftKeyboard වලින් පිටත ක්ලිප්බෝඩ් මෙහෙයුම් වලට සවන් නොදෙන්න.</string>
+    <string name="settings_os_clipboard_sync_summary_on">ක්ලිප්බෝඩ් වෙනස්කම් හඳුනාගෙන SadSha Keyboard සමඟ සමමුහුර්ත කරන්න.</string>
+    <string name="settings_os_clipboard_sync_summary_off">SadSha Keyboard වලින් පිටත ක්ලිප්බෝඩ් මෙහෙයුම් වලට සවන් නොදෙන්න.</string>
     <string name="auto_caps">ස්වයංක්‍රීය ප්‍රාග්ධනීකරණය</string>
     <string name="grammar_group">ව්යාකරණ</string>
     <string name="keyboard_behavior_group">යතුරුපුවරු හැසිරීම</string>
@@ -506,7 +506,7 @@
     <string name="settings_long_press_timeout_slower">හිමින්</string>
     <string name="settings_long_press_timeout_never">කවදාවත් නැහැ</string>
     <string name="settings_force_locale_title">බල පෙදෙස</string>
-    <string name="settings_force_locale_summary">AnySoftKeyboard තුළ බල පෙදෙසිය භාවිතා කරයි (බලපෑමට
+    <string name="settings_force_locale_summary">SadSha Keyboard තුළ බල පෙදෙසිය භාවිතා කරයි (බලපෑමට
         ටික වේලාවක් ගතවේ). දැනට: %s.
     </string>
     <string name="tweak_workarounds_group">විසඳුම්</string>
@@ -514,7 +514,7 @@
     <string name="workaround_disable_rtl_fix_summary_on">OS RTL හැසිරවීම භාවිතා කරන්න. නව උපාංග
         ක හොඳින් ක්‍රියා කළ යුතුය.
     </string>
-    <string name="workaround_disable_rtl_fix_summary_off">AnySoftKeyboard RTL හැසිරවීම භාවිතා කරන්න.
+    <string name="workaround_disable_rtl_fix_summary_off">SadSha Keyboard RTL හැසිරවීම භාවිතා කරන්න.
         භාවිතා කළ යුත්තේ OS RTL කිරීමට අසමත් වුවහොත් පමණි.
     </string>
     <string name="settings_split_state_title_portrait">Portrait Split/Merge ආරම්භක තත්ත්වය</string>
@@ -576,7 +576,7 @@
     <string name="emoji_default_gender_value_random_type">අහඹු ලිංගභේදය</string>
     <string name="developer_tools">සංවර්ධන මෙවලම්</string>
     <string name="click_for_developer_features">සංවර්ධන මෙවලම්</string>
-    <string name="click_for_developer_features_summary">AnySoftKeyboard
+    <string name="click_for_developer_features_summary">SadSha Keyboard
         සංවර්ධකයින් සඳහා විවිධ මෙවලම්
     </string>
     <string name="failed_to_create_mem_dump">        <xliff:g id="message">%s</xliff:g>
@@ -584,7 +584,7 @@
     <string name="created_mem_dump_file">මතක ඩම්ප් ගොනුව තනන ලද්දේ:
         <xliff:g id="file_path">%s</xliff:g>
     </string>
-    <string name="not_configured_with_click_here">AnySoftKeyboard භාවිතය සඳහා සම්පූර්ණයෙන්ම සකසා නැත. පිහිටුවීමට මෙහි
+    <string name="not_configured_with_click_here">SadSha Keyboard භාවිතය සඳහා සම්පූර්ණයෙන්ම සකසා නැත. පිහිටුවීමට මෙහි
         ක්ලික් කරන්න.
     </string>
     <string name="not_configured_with_just_click_here">මෙහි ක්ලික් කරන්න</string>
@@ -599,25 +599,25 @@
     <string name="enter_abbreviation_target_hint">සම්පූර්ණ වාක්‍යය</string>
     <string name="toast_error_custom_path_backup">දෝෂය: ඕනෑම සන්දර්භීය යෙදුමක් විවෘත විය හැක</string>
     <string name="about_additional_software_licenses">අතිරේක මෘදුකාංග බලපත්ර</string>
-    <string name="setup_wizard_step_one_title">AnySoftKeyboard සබල කරන්න</string>
+    <string name="setup_wizard_step_one_title">SadSha Keyboard සබල කරන්න</string>
     <string name="setup_wizard_step_one_details">මෙම පියවරේදී, ඔබට &lt;i&gt;
-        AnySoftKeyboard&lt;/i&gt;සබල කිරීමට අවශ්‍ය වනු ඇත. කරුණාකර ඔබගේ&lt;/i&gt; භාෂා&amp;ආදාන
+        SadSha Keyboard&lt;/i&gt;සබල කිරීමට අවශ්‍ය වනු ඇත. කරුණාකර ඔබගේ&lt;/i&gt; භාෂා&amp;ආදාන
         සැකසීම් &lt;i&gt;හි \'&lt;/i&gt;\' &lt;i&gt;පරීක්ෂා කරන්න. මෙය ඔබගේ උපාංගය මත ධාවනය කිරීමට අපට ඉඩ සලසයි.
     </string>
     <string name="setup_wizard_step_one_action">ඔබගේ <i>භාෂාව&amp;ආදාන සැකසුම්</i>…
     වෙත යන්න    </string>
     <string name="setup_wizard_step_one_action_error_no_settings_activity">දෝෂය: ඔබගේ උපාංගය
-        තෙවන පාර්ශවීය යතුරුපුවරු සඳහා සහය නොදක්වයි. AnySoftKeyboard සක්‍රිය කළ නොහැක!
+        තෙවන පාර්ශවීය යතුරුපුවරු සඳහා සහය නොදක්වයි. SadSha Keyboard සක්‍රිය කළ නොහැක!
     </string>
     <string name="setup_wizard_step_permissions_title">අවසර සබල කරන්න</string>
-    <string name="setup_wizard_step_two_title">AnySoftKeyboard වෙත මාරු වන්න</string>
-    <string name="setup_wizard_step_two_details">ඔබගේ පද්ධතියට දැන් <i>AnySoftKeyboard</i> භාවිතා කළ හැක, නමුත්
-        එය සක්‍රිය යතුරු පුවරුව ලෙස සකසා නොමැත.\nමාරු කිරීමෙන්, <i>AnySoftKeyboard</i> එහි සියලුම විශේෂාංග සමඟින් ඔබේ නව
+    <string name="setup_wizard_step_two_title">SadSha Keyboard වෙත මාරු වන්න</string>
+    <string name="setup_wizard_step_two_details">ඔබගේ පද්ධතියට දැන් <i>SadSha Keyboard</i> භාවිතා කළ හැක, නමුත්
+        එය සක්‍රිය යතුරු පුවරුව ලෙස සකසා නොමැත.\nමාරු කිරීමෙන්, <i>SadSha Keyboard</i> එහි සියලුම විශේෂාංග සමඟින් ඔබේ නව
         තිරයේ යතුරු පුවරුව වනු ඇත!
     </string>
     <string name="setup_wizard_step_two_action">සක්‍රිය යතුරුපුවරු මාරු කරන්න</string>
     <string name="setup_wizard_step_three_title">ඊළඟට මොකක්ද</string>
-    <string name="setup_wizard_step_three_details"><i>AnySoftKeyboard</i>තෝරා ගැනීම ගැන ඔබට ස්තුතියි.
+    <string name="setup_wizard_step_three_details"><i>SadSha Keyboard</i>තෝරා ගැනීම ගැන ඔබට ස්තුතියි.
     </string>
     <string name="setup_wizard_step_three_details_done">        <b>ඔබ අවසන් 🎉\nඑය උත්සාහ කිරීමට ඔබගේ ප්‍රියතම යෙදුම වෙත යන්න.</b>
     </string>
@@ -628,11 +628,11 @@
     <string name="setup_wizard_step_three_action_themes">තේමාව…තෝරන්න</string>
     <string name="setup_wizard_step_three_action_all_settings">අනෙක් සියල්ල…වින්‍යාස කරන්න</string>
     <string name="setup_wizard_step_download_title">භාෂා ඇසුරුම් බාගන්න</string>
-    <string name="setup_wizard_step_download_details"><i>AnySoftKeyboard</i> භාෂා දුසිම් ගණනකට සහය දක්වන බව දැන ගැනීමට ඔබ සතුටු වනු ඇත. අවශ්‍ය භාෂා ඇසුරුම බාගත කර ඔබගේ උපාංගයේ ඕනෑම භාෂාවකින්
+    <string name="setup_wizard_step_download_details"><i>SadSha Keyboard</i> භාෂා දුසිම් ගණනකට සහය දක්වන බව දැන ගැනීමට ඔබ සතුටු වනු ඇත. අවශ්‍ය භාෂා ඇසුරුම බාගත කර ඔබගේ උපාංගයේ ඕනෑම භාෂාවකින්
         ටයිප් කිරීමෙන් සතුටක් ලබන්න.</string>
     <string name="setup_wizard_step_download_action">භාෂා ඇසුරුම බාගන්න</string>
     <string name="setup_wizard_step_download_skip_action">මඟ හරින්න</string>
-    <string name="ime_crashed_text">අවාසනාවන්ත ලෙස, <i>AnySoftKeyboard</i>සමඟ ගැටළුවක් ඇත.
+    <string name="ime_crashed_text">අවාසනාවන්ත ලෙස, <i>SadSha Keyboard</i>සමඟ ගැටළුවක් ඇත.
         කලබල නොවන්න, මෙය විසඳීමට උදවු කිරීමට ඔබට <b/> කළ හැකි දෙයක් තිබේ: බිඳ වැටීම්
         වාර්තාව අපට එවන්න, අපි මෙම බිඳවැටීම විසඳීමට සහ ඔබට නියම යතුරුපුවරු
         අත්දැකීමක් සමඟින් නැවත ලබා දීමට අපගේ උපරිමය කරන්නෙමු!\n\nඅවංක සමාව අයැදීමෙන්, දේව් කණ්ඩායම.
@@ -655,7 +655,7 @@
     <string name="wizard_allow_contacts_permission">සම්බන්ධතා මත ටයිප් කිරීමේ යෝජනාවලට ඉඩ දෙන්න</string>
     <string name="turn_off_contacts_dictionary">සම්බන්ධතා ශබ්දකෝෂය අක්‍රිය කරන්න</string>
     <string name="read_more_about_permissions">අවසර…ගැන වැඩිදුර කියවන්න</string>
-    <string name="ask_beta_link_promo">හේයි! අලුත් &lt;i&gt;AnySoftKeyboard&lt;/i&gt; දේවල් ඉක්මනින් අවශ්‍යද? එවිට
+    <string name="ask_beta_link_promo">හේයි! අලුත් &lt;i&gt;SadSha Keyboard&lt;/i&gt; දේවල් ඉක්මනින් අවශ්‍යද? එවිට
         ඔබ වාසනාවන්තයි! &lt;i&gt;BETA&lt;/i&gt; නාලිකාව දැන් &lt;b&gt;ඔබ&lt;/b&gt;සඳහා ලබා ගත හැකිය!\nපහත සබැඳි
         හි ලියාපදිංචි වන්න, සහ Google Play&lt;/i&gt; යෙදුම් වෙළඳසැල &lt;i&gt;හරහා යාවත්කාලීන කරන්න!\n\n
         https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nසහ
@@ -684,15 +684,15 @@
     <string name="no_internet_fields_specific_layout">කිසිවක් නැත</string>
     <string name="bottom_nav_home">ආයුබෝවන්</string>
     <string name="setup_wizard_welcome_title">සාදරයෙන් පිළිගනිමු!</string>
-    <string name="setup_wizard_welcome_sub_title">AnySoftKeyboard උත්සාහ කිරීමට ඔබට ස්තුතියි!
+    <string name="setup_wizard_welcome_sub_title">SadSha Keyboard උත්සාහ කිරීමට ඔබට ස්තුතියි!
     </string>
-    <string name="setup_wizard_welcome_info">වෙනත් ඕනෑම ඇන්ඩ්‍රොයිඩ් යතුරුපුවරුවක මෙන්, ඔබට ඇන්ඩ්‍රොයිඩ් සැකසුම් පිටු තුළ AnySoftKeyboard
+    <string name="setup_wizard_welcome_info">වෙනත් ඕනෑම ඇන්ඩ්‍රොයිඩ් යතුරුපුවරුවක මෙන්, ඔබට ඇන්ඩ්‍රොයිඩ් සැකසුම් පිටු තුළ SadSha Keyboard
         සබල කිරීමට අවශ්‍ය වේ.
         ඔබේ ටයිප් කිරීමේ දත්ත නරක යතුරුපුවරු මගින් සොරකම් නොකරන බව සහතික කිරීමට මෙය Android විසින් අවශ්‍ය වේ*.
     </string>
     <string name="setup_wizard_welcome_info_2">හරි, සූදානම්ද? ආරම්භ කිරීමට පහත ක්ලික් කරන්න, මම මේ හරහා ඔබට මග පෙන්වන්නම්.</string>
     <string name="setup_wizard_welcome_start_action">පිහිටුවීම ආරම්භ කරන්න…</string>
-    <string name="setup_wizard_welcome_info_footnote">* ඇත්ත වශයෙන්ම, AnySoftKeyboard නරක නැත. අපගේ මූල කේතය දෙස බලා එය සත්‍යාපනය කිරීමට ඔබ
+    <string name="setup_wizard_welcome_info_footnote">* ඇත්ත වශයෙන්ම, SadSha Keyboard නරක නැත. අපගේ මූල කේතය දෙස බලා එය සත්‍යාපනය කිරීමට ඔබ
         දිරිමත් කරනු ලැබේ. තවද, අපට <i>NETWORK
         </i> අවසර නොමැත, එබැවින් අපට උපාංගයෙන් දත්ත යැවිය නොහැක.
     </string>
@@ -742,8 +742,8 @@
     <string name="aosp_dark_theme_description">AOSP-ආනුභාව ලත් අඳුරු වර්ණ යතුරුපුවරු තේමාව</string>
     <string name="aosp_light_theme_name">AOSP ආලෝක තේමාව</string>
     <string name="aosp_light_theme_description">AOSP-ආනුභාව ලත් සැහැල්ලු වර්ණ යතුරුපුවරු තේමාව</string>
-    <string name="app_share_title">AnySoftKeyboard වෙතින් ආයුබෝවන්</string>
-    <string name="app_share_menu_title">භාවිතයෙන් AnySoftKeyboard බෙදාගන්න</string>
-    <string name="app_share_text">මට විවෘත මූලාශ්‍ර, රහස්‍යතා-අවධානය, නොමිලේ, ඉතා අභිරුචිකරණය කළ හැකි, බහු-භාෂා Android යතුරුපුවරු යෙදුම AnySoftKeyboard නිර්දේශ කිරීමට ඉඩ දෙන්න.\nඑය ලබාගන්න:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en /packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_title">SadSha Keyboard වෙතින් ආයුබෝවන්</string>
+    <string name="app_share_menu_title">භාවිතයෙන් SadSha Keyboard බෙදාගන්න</string>
+    <string name="app_share_text">මට විවෘත මූලාශ්‍ර, රහස්‍යතා-අවධානය, නොමිලේ, ඉතා අභිරුචිකරණය කළ හැකි, බහු-භාෂා Android යතුරුපුවරු යෙදුම SadSha Keyboard නිර්දේශ කිරීමට ඉඩ දෙන්න.\nඑය ලබාගන්න:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en /packages/com.menny.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">පුදුමයක් සඳහා මා ක්ලික් කරන්න</string>
 </resources>

@@ -1,4 +1,7 @@
-# AnySoftKeyboard&nbsp;[![Latest release](https://img.shields.io/github/release/AnySoftKeyboard/AnySoftKeyboard.svg)](https://github.com/AnySoftKeyboard/AnySoftKeyboard/releases)
+# SadSha Keyboard&nbsp;[![Latest release](https://img.shields.io/github/release/AnySoftKeyboard/AnySoftKeyboard.svg)](https://github.com/AnySoftKeyboard/AnySoftKeyboard/releases)
+
+> **SadSha Keyboard** is a rebrand of [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) (Apache License 2.0), with 54 languages bundled including Urdu. Original project copyright its authors; see LICENSE for the full text.
+
 
 Discussions can be found on&nbsp;[💬&nbsp;GitHub](https://github.com/AnySoftKeyboard/AnySoftKeyboard/discussions)<br/>
 Follow us on <a rel="me" href="https://hachyderm.io/@anysoftkeyboard">Mastodon</a>

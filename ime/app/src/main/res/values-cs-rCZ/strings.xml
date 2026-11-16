@@ -5,7 +5,7 @@
     <string name="debug_tracing_finished">Trasování dokončeno!\nTrasovací soubor je <xliff:g id="trace_file">%s</xliff:g>
     </string>
     <string name="menu_about_item">O aplikaci</string>
-    <string name="how_to_pointer_title">Vítejte v AnySoftKeyboard</string>
+    <string name="how_to_pointer_title">Vítejte v SadSha Keyboard</string>
     <string name="change_log_card_version_title_template">\u0020\u0020Poslední změny pro v<xliff:g id="name">%s</xliff:g>\u0020\u0020</string>
     <string name="notification_text_testers">Jedná se o beta verzi. Používejte opatrně!</string>
     <string name="testers_version">Testovací sestavení!</string>
@@ -64,7 +64,7 @@
     <string name="night_mode_sound_control">Zakázat zvuky stisku kláves</string>
     <string name="night_mode_vibration_control">Zakázat vibrace stisku kláves</string>
     <string name="power_save_mode_screen">Nastavení úsporného režimu</string>
-    <string name="power_save_mode_description">Režim úspory sníží spotřebu energie AnySoftKeyboard vypnutím funkcí:</string>
+    <string name="power_save_mode_description">Režim úspory sníží spotřebu energie SadSha Keyboard vypnutím funkcí:</string>
     <string name="power_save_mode_state_summary">Aktuálně se režim šetření baterie zapne při:\u0020%s</string>
     <string name="power_save_mode_dialog_title">Zapnout režim šetření baterie</string>
     <string name="power_save_mode_types_never">Nikdy</string>
@@ -188,7 +188,7 @@
     <string name="volume_key_for_left_right_support_off_summary">Hlasitost nahoru nasměruje kurzor vlevo, hlasitost dolů nasměruje kurzor vpravo</string>
     <string name="more_ui_settings_group">Uživatelské rozhraní</string>
     <string name="special_dictionaries_group">Specifické slovníky</string>
-    <string name="special_dictionaries_group_summary">Návrhové slovníky používané v AnySoftKeyboard</string>
+    <string name="special_dictionaries_group_summary">Návrhové slovníky používané v SadSha Keyboard</string>
     <string name="use_user_dictionary">Uživatelský slovník</string>
     <string name="use_user_dictionary_on_summary">Navrhovat uživatelem přidaná slova (dvojklik na napsaném návrhu ho přidá)</string>
     <string name="use_auto_dictionary">Automatický slovník</string>
@@ -297,8 +297,8 @@
     <string name="lang_key_shows_popup_on_summary">Klávesa jazyka zobrazí vyskakovací dialog výběru</string>
     <string name="lang_key_shows_popup_off_summary">Klávesa jazyka rotuje přes jazyky</string>
     <string name="settings_os_clipboard_sync">Synchronizovat schránku s operačním systémem</string>
-    <string name="settings_os_clipboard_sync_summary_on">Detekovat změny schránky a synchronizovat s AnySoftKeyboard.</string>
-    <string name="settings_os_clipboard_sync_summary_off">Ignorovat změny schránky mimo AnySoftKeyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_on">Detekovat změny schránky a synchronizovat s SadSha Keyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_off">Ignorovat změny schránky mimo SadSha Keyboard.</string>
     <string name="auto_caps">Autom. velká písmena</string>
     <string name="grammar_group">Gramatika</string>
     <string name="keyboard_behavior_group">Chování klávesnice</string>
@@ -430,11 +430,11 @@
     <string name="settings_long_press_timeout_slower">Pomaleji</string>
     <string name="settings_long_press_timeout_never">Nikdy</string>
     <string name="settings_force_locale_title">Vynutit lokalizaci</string>
-    <string name="settings_force_locale_summary">Vynutit lokalizaci použitou v AnySoftKeyboard (může to chvíli trvat). Aktuálně: %s.</string>
+    <string name="settings_force_locale_summary">Vynutit lokalizaci použitou v SadSha Keyboard (může to chvíli trvat). Aktuálně: %s.</string>
     <string name="tweak_workarounds_group">Zástupná řešení</string>
     <string name="workaround_disable_rtl_fix">Zadávání zprava doleva</string>
     <string name="workaround_disable_rtl_fix_summary_on">Použít zpracování RTL v OS (pro SE telefony)</string>
-    <string name="workaround_disable_rtl_fix_summary_off">Použít zpracování RTL v AnySoftKeyboard</string>
+    <string name="workaround_disable_rtl_fix_summary_off">Použít zpracování RTL v SadSha Keyboard</string>
     <string name="settings_split_state_summary">Definuje, zda je ve výchozím stavu klávesnice rozdělená. Nyní: %s</string>
     <string name="settings_split_state_merged_always">Normální</string>
     <string name="settings_split_state_split_always">Rozdělená</string>
@@ -471,11 +471,11 @@
     <string name="emoji_default_gender_value_random_type">Náhodné pohlaví</string>
     <string name="developer_tools">Vývojářské nástroje</string>
     <string name="click_for_developer_features">Vývojářské nástroje</string>
-    <string name="click_for_developer_features_summary">Různé nástroje pro vývojáře AnySoftKeyboard</string>
+    <string name="click_for_developer_features_summary">Různé nástroje pro vývojáře SadSha Keyboard</string>
     <string name="failed_to_create_mem_dump">Nepodařilo se vytvořit soubor se stavem paměti kvůli: <xliff:g id="message">%s</xliff:g></string>
     <string name="created_mem_dump_file">Byl vytvořen soubor se stavem paměti: <xliff:g id="file_path">%s</xliff:g></string>
-    <string name="not_configured_with_click_here">Aplikace AnySoftKeyboard není plně nakonfigurována pro používání. Klikněte sem pro nastavení.</string>
-    <string name="not_notification_permission_text">AnySoftKeyboard nemá vaše oprávnění k odesílání oznámení. Mohli bychom vás jen zřídka upozornit, že vás musíme informovat o kritických problémech (jako jsou pády).</string>
+    <string name="not_configured_with_click_here">Aplikace SadSha Keyboard není plně nakonfigurována pro používání. Klikněte sem pro nastavení.</string>
+    <string name="not_notification_permission_text">SadSha Keyboard nemá vaše oprávnění k odesílání oznámení. Mohli bychom vás jen zřídka upozornit, že vás musíme informovat o kritických problémech (jako jsou pády).</string>
     <string name="not_configured_with_just_click_here">Klikněte sem</string>
     <!--  Strings for possible PreferenceActivity Back/Next buttons -->
     <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
@@ -488,16 +488,16 @@
     <string name="enter_abbreviation_target_hint">Celá věta</string>
     <string name="toast_error_custom_path_backup">Chyba: Jakákoliv kontextová aplikace může být otevřena</string>
     <string name="about_additional_software_licenses">Další softwarové licence</string>
-    <string name="setup_wizard_step_one_title">Povolit AnySoftKeyboard</string>
-    <string name="setup_wizard_step_one_details">V tomto kroku potřebujete povolit <i>AnySoftKeyboard</i>. Zaškrtněte prosím <i>\'AnySoftKeyboard\'</i> ve vaší nabídce <i>Jazyk a zadávání</i>. Tím umožníte spuštění na vašem zařízení.</string>
+    <string name="setup_wizard_step_one_title">Povolit SadSha Keyboard</string>
+    <string name="setup_wizard_step_one_details">V tomto kroku potřebujete povolit <i>SadSha Keyboard</i>. Zaškrtněte prosím <i>\'SadSha Keyboard\'</i> ve vaší nabídce <i>Jazyk a zadávání</i>. Tím umožníte spuštění na vašem zařízení.</string>
     <string name="setup_wizard_step_one_action">Jděte do vašeho nastavení <i>Jazyk a zadávání</i>…</string>
-    <string name="setup_wizard_step_one_action_error_no_settings_activity">Chyba: Vaše zařízení nepodporuje klávesnice třetích stran. AnySoftKeyboard není možné aktivovat.</string>
+    <string name="setup_wizard_step_one_action_error_no_settings_activity">Chyba: Vaše zařízení nepodporuje klávesnice třetích stran. SadSha Keyboard není možné aktivovat.</string>
     <string name="setup_wizard_step_permissions_title">Povolit oprávnění</string>
-    <string name="setup_wizard_step_two_title">Přepnout na AnySoftKeyboard</string>
-    <string name="setup_wizard_step_two_details">Váš systém může nyní používat <i>AnySoftKeyboard</i>, ale aplikace není nastavena jako aktivní klávesnice.\nPřepnutím se stane <i>AnySoftKeyboard</i> vaší novou klávesnicí na obrazovce spolu se všemi svými funkcemi!</string>
+    <string name="setup_wizard_step_two_title">Přepnout na SadSha Keyboard</string>
+    <string name="setup_wizard_step_two_details">Váš systém může nyní používat <i>SadSha Keyboard</i>, ale aplikace není nastavena jako aktivní klávesnice.\nPřepnutím se stane <i>SadSha Keyboard</i> vaší novou klávesnicí na obrazovce spolu se všemi svými funkcemi!</string>
     <string name="setup_wizard_step_two_action">Přepněte aktivní klávesnice</string>
     <string name="setup_wizard_step_three_title">Co bude další</string>
-    <string name="setup_wizard_step_three_details">Děkujeme, že jste si vybrali <i>AnySoftKeyboard</i>.</string>
+    <string name="setup_wizard_step_three_details">Děkujeme, že jste si vybrali <i>SadSha Keyboard</i>.</string>
     <string name="setup_wizard_step_three_details_done">
  <b>Jste hotovi 🎉\nPřejděte do své oblíbené aplikace a vyzkoušejte to.</b></string>
     <string name="setup_wizard_step_three_details_actions">Nebo si klávesnici můžete přizpůsobit dle libosti:</string>
@@ -505,10 +505,10 @@
     <string name="setup_wizard_step_three_action_themes">Vyberte motiv…</string>
     <string name="setup_wizard_step_three_action_all_settings">Konfigurujte všechno ostatní…</string>
     <string name="setup_wizard_step_download_title">Stáhnout jazykové balíčky</string>
-    <string name="setup_wizard_step_download_details">Můžete se radovat, <i>AnySoftKeyboard</i> podporuje desítky jazyků. Stačí si je stáhnout.</string>
+    <string name="setup_wizard_step_download_details">Můžete se radovat, <i>SadSha Keyboard</i> podporuje desítky jazyků. Stačí si je stáhnout.</string>
     <string name="setup_wizard_step_download_action">Stáhnout jazykový balíček</string>
     <string name="setup_wizard_step_download_skip_action">Přeskočit</string>
-    <string name="ime_crashed_text">Naneštěstí je s aplikací <i>AnySoftKeyboard</i> nějaký problém. Nepanikařte, <b>vy sami</b> můžete pomoci to vyřešit: odešlete nám zprávu o pádu a my se budeme snažit tento pád vyřešit, jak nejlépe dovedeme, abychom vám opět poskytli úchvatný zážitek s klávesnicí!\n\nS upřímnou omluvou tým vývojářů.</string>
+    <string name="ime_crashed_text">Naneštěstí je s aplikací <i>SadSha Keyboard</i> nějaký problém. Nepanikařte, <b>vy sami</b> můžete pomoci to vyřešit: odešlete nám zprávu o pádu a my se budeme snažit tento pád vyřešit, jak nejlépe dovedeme, abychom vám opět poskytli úchvatný zážitek s klávesnicí!\n\nS upřímnou omluvou tým vývojářů.</string>
     <string name="ime_crashed_send_button">Odeslat</string>
     <string name="ime_crashed_cancel_button">Zrušit</string>
     <string name="ime_crashed_intent_selector_title">Odeslat hlášení o pádu přes</string>

@@ -7,7 +7,7 @@
     </string>
     <string name="debug_tracing_finished">انتهى التتبع!\nملف التتبع هو\u0020<xliff:g id="trace_file">%s</xliff:g></string>
     <string name="menu_about_item">عن التطبيق</string>
-    <string name="how_to_pointer_title">مرحبا بكم إلى AnySoftKeyboard</string>
+    <string name="how_to_pointer_title">مرحبا بكم إلى SadSha Keyboard</string>
     <string name="change_log_card_version_title_template">\u0020\u0020آخر التعديلات في الإصدار v<xliff:g id="name">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_entry_header_template_without_name">\u0020\u0020v<xliff:g id="code">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_url">المزيد :\u0020<xliff:g id="url">%s</xliff:g></string>
@@ -70,7 +70,7 @@
     <string name="night_mode_sound_control">تعطيل صوت النقر على المفاتيح</string>
     <string name="night_mode_vibration_control">تعطيل الاهتزاز عند النقر على المفاتيح</string>
     <string name="power_save_mode_screen">إعدادات حفظ الطاقة</string>
-    <string name="power_save_mode_description">تشغيل وضع حفظ الطاقة يعمل على تخفيض استهلاك AnySoftKeyboard للبطارية عبر تعطيل بعض الميزات</string>
+    <string name="power_save_mode_description">تشغيل وضع حفظ الطاقة يعمل على تخفيض استهلاك SadSha Keyboard للبطارية عبر تعطيل بعض الميزات</string>
     <string name="power_save_mode_state_summary">حاليا, وضع حفظ الطاقة مشغل:\u0020%s</string>
     <string name="power_save_mode_dialog_title">تنشيط وضع توفير الطاقة</string>
     <string name="power_save_mode_types_never">أبدًا</string>
@@ -212,11 +212,11 @@
     <string name="volume_key_for_left_right_support_off_summary">مستوى الصوت لأعلى يستدير المؤشر لليسار ، مستوى الصوت لأسفل يدير المؤشر لليمين</string>
     <string name="more_ui_settings_group">واجهة المستخدم</string>
     <string name="special_dictionaries_group">القواميس الخاصة</string>
-    <string name="special_dictionaries_group_summary">قواميس الإقتراحات المتوفرة على AnySoftKeyboard</string>
+    <string name="special_dictionaries_group_summary">قواميس الإقتراحات المتوفرة على SadSha Keyboard</string>
     <string name="use_user_dictionary">قاموس المستخدِم</string>
     <string name="use_user_dictionary_on_summary">إقتراح الكلمات المُضافَة من طرف المستخدِم (النقر مرتين لإضافة كلمة)</string>
     <string name="always_use_fallback_user_dictionary">استخدام وحدة تخزين القاموس للمستخدم الخاص</string>
-    <string name="always_use_fallback_user_dictionary_on_summary">استخدم آلية قاموس المستخدم الخاصة الخاصة AnySoftKeyboard\.</string>
+    <string name="always_use_fallback_user_dictionary_on_summary">استخدم آلية قاموس المستخدم الخاصة الخاصة SadSha Keyboard\.</string>
     <string name="always_use_fallback_user_dictionary_off_summary">حاول استخدام قاموس المستخدم العالمي المدمج في Android\.</string>
     <string name="use_auto_dictionary">قاموس تلقائي</string>
     <string name="use_auto_dictionary_dialog_title">تحديد أسلوب التعلّم</string>
@@ -333,7 +333,7 @@
     <string name="lang_key_shows_popup_on_summary">مفتاح اللغة سوف يُظهر إطارا لاختيار اللغة</string>
     <string name="lang_key_shows_popup_off_summary">مفتاح اللغة سيقوم بتبديل دوري للإنتقال بين اللغات</string>
     <string name="settings_os_clipboard_sync">مزامنة الحافظة مع نظام التشغيل</string>
-    <string name="settings_os_clipboard_sync_summary_on">كشف التغييرات في الحافظة والمزامنة مع AnySoftKeyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_on">كشف التغييرات في الحافظة والمزامنة مع SadSha Keyboard.</string>
     <string name="auto_caps">أحرف كبيرة تلقائيا</string>
     <string name="grammar_group">القواعد النحوية</string>
     <string name="keyboard_behavior_group">سلوك لوحة المفاتيح</string>
@@ -465,7 +465,7 @@
     <string name="tweak_workarounds_group">الحلول</string>
     <string name="workaround_disable_rtl_fix">إستخدام دعم الأندرويد للكتابة من اليمين إلى اليسار</string>
     <string name="workaround_disable_rtl_fix_summary_on">إستخدم دعم النظام للكتابة من اليمين إلى اليسار. يعمل بشكل جيد على الأجهزة الحديثة.</string>
-    <string name="workaround_disable_rtl_fix_summary_off">إستخدم دعم AnySoftKeyboard للكتابة من اليمين إلى اليسار. يجب إستخدامه فقط عندما يخفق النظام في دعم الـ RTL.</string>
+    <string name="workaround_disable_rtl_fix_summary_off">إستخدم دعم SadSha Keyboard للكتابة من اليمين إلى اليسار. يجب إستخدامه فقط عندما يخفق النظام في دعم الـ RTL.</string>
     <string name="settings_split_state_summary">تحديد ما إذا كان سيتم تقسيم لوحة المفاتيح تلقائيا. حاليا : %s</string>
     <string name="settings_split_state_merged_always">تشغيل عادي</string>
     <string name="settings_split_state_split_always">تشغيل اللوحة مقسمة</string>
@@ -507,8 +507,8 @@
     <string name="emoji_default_gender_value_random_type">جنس عشوائي</string>
     <string name="developer_tools">أدوات المطور</string>
     <string name="click_for_developer_features">أدوات المطور</string>
-    <string name="click_for_developer_features_summary">أدوات مختلفة للوحة مفاتيح AnySoftKeyboard خاصة بالمطورين</string>
-    <string name="not_configured_with_click_here">تطبيق AnySoftKeyboard ليس جاهزا تماما للإستخدام. إضغط هنا لإعداده.</string>
+    <string name="click_for_developer_features_summary">أدوات مختلفة للوحة مفاتيح SadSha Keyboard خاصة بالمطورين</string>
+    <string name="not_configured_with_click_here">تطبيق SadSha Keyboard ليس جاهزا تماما للإستخدام. إضغط هنا لإعداده.</string>
     <string name="not_configured_with_just_click_here">انقر هنا</string>
     <!--  Strings for possible PreferenceActivity Back/Next buttons -->
     <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
@@ -520,17 +520,17 @@
     <string name="enter_abbreviation_hint">اختصار</string>
     <string name="enter_abbreviation_target_hint">جملة كاملة</string>
     <string name="about_additional_software_licenses">رخص برمجية إضافية</string>
-    <string name="setup_wizard_step_one_title">تفعيل AnySoftKeyboard</string>
+    <string name="setup_wizard_step_one_title">تفعيل SadSha Keyboard</string>
     <string name="setup_wizard_step_one_action">إنتقل إلى <i>إعدادت اللغة ثم إعدادات لوحة المفاتيح</i> …    </string>
     <string name="setup_wizard_step_permissions_title">تفعيل التصريحات</string>
-    <string name="setup_wizard_step_two_title">إنتقل إلى AnySoftKeyboard</string>
-    <string name="setup_wizard_step_two_details">إنّ نظامك يستخدم <i>AnySoftKeyboard</i> الآن و لكن
-        لم يتم تعيينه كلوحة مفاتيح مُفعّلة.\nبتبديله، سوف يصبح <i>AnySoftKeyboard</i> 
+    <string name="setup_wizard_step_two_title">إنتقل إلى SadSha Keyboard</string>
+    <string name="setup_wizard_step_two_details">إنّ نظامك يستخدم <i>SadSha Keyboard</i> الآن و لكن
+        لم يتم تعيينه كلوحة مفاتيح مُفعّلة.\nبتبديله، سوف يصبح <i>SadSha Keyboard</i> 
         لوحة مفاتيح شاشتك بكافة ميزاته !
     </string>
     <string name="setup_wizard_step_two_action">قم بتبديل لوحات المفاتيح الحالية</string>
     <string name="setup_wizard_step_three_title">ما هي الخطوة التالية ؟</string>
-    <string name="setup_wizard_step_three_details">نشكرك لاختيارك <i>AnySoftKeyboard</i>.</string>
+    <string name="setup_wizard_step_three_details">نشكرك لاختيارك <i>SadSha Keyboard</i>.</string>
     <string name="setup_wizard_step_three_details_done"><b>لقد أنهيت 🎉\nإذهب إلى تطبيقك المفضل لتجريبه.</b></string>
     <string name="setup_wizard_step_three_details_actions">أو يمكنك إعداد لوحة المفاتيح حسب أذواقك :</string>
     <string name="setup_wizard_step_three_action_languages">إعداد اللغات …</string>
@@ -575,7 +575,7 @@
     <string name="no_internet_fields_specific_layout">لا شيء</string>
     <string name="bottom_nav_home">أهلاً</string>
     <string name="setup_wizard_welcome_title">مرحبًا !</string>
-    <string name="setup_wizard_welcome_sub_title">شكرا لتجريبيك للوحة المفاتيح AnySoftKeyboard !</string>
+    <string name="setup_wizard_welcome_sub_title">شكرا لتجريبيك للوحة المفاتيح SadSha Keyboard !</string>
     <string name="setup_wizard_welcome_info_2">حسنا، هل أنت جاهز ؟ إضغط أدناه للمواصلة، سوف أدُلّك على الخطوات.</string>
     <string name="setup_wizard_welcome_start_action">بداية التثبيت …</string>
     <string name="setup_wizard_welcome_privacy_action">انتقل إلى سياسة الخصوصية …</string>
@@ -606,7 +606,7 @@
     <string name="gesture_typing_alert_title">ميزة تجريبية!</string>
     <string name="gesture_typing_alert_button">حسنا</string>
     <string name="apply_overlay_summary_off">استخدم ألوان السمة دائما.</string>
-    <string name="app_share_title">مرحبا من AnySoftKeyboard</string>
+    <string name="app_share_title">مرحبا من SadSha Keyboard</string>
     <string name="click_me_for_easter_egg_info">انقر علي لمفاجأة</string>
     <string name="delete_all_clipboard_entries">تفريغ الحافظة</string>
 </resources>

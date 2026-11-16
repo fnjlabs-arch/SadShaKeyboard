@@ -6,7 +6,7 @@
 <xliff:g id="trace_file">%s</xliff:g>
     </string>
     <string name="menu_about_item">Quant a…</string>
-    <string name="how_to_pointer_title">Us donem la benvinguda a l\'AnySoftKeyboard</string>
+    <string name="how_to_pointer_title">Us donem la benvinguda a l\'SadSha Keyboard</string>
     <string name="change_log_card_version_title_template">\u0020\u0020Latest changes for v<xliff:g id="nom">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_entry_header_template_without_name">\u0020\u0020v<xliff:g id="codi">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_url">Més: \u0020<xliff:g id="url">%s</xliff:g>
@@ -76,7 +76,7 @@
     <string name="night_mode_sound_control">Desactiva els sons de la pulsació de tecles</string>
     <string name="night_mode_vibration_control">Desactiva les vibracions de la pulsació de tecles</string>
     <string name="power_save_mode_screen">Configuració d\'Estalvi d\'Energia</string>
-    <string name="power_save_mode_description">El mode d\'Estalvi d\'Energia reduirà el consum d\'energia de AnySoftKeyboard al desactivar les següents característiques:</string>
+    <string name="power_save_mode_description">El mode d\'Estalvi d\'Energia reduirà el consum d\'energia de SadSha Keyboard al desactivar les següents característiques:</string>
     <string name="power_save_mode_state_summary">Ara mateix, el interruptor d\'Estalvi d\'Energia:\u0020%s</string>
     <string name="power_save_mode_dialog_title">Activa el mode d\'Estalvi d\'Energia</string>
     <string name="power_save_mode_types_never">Mai</string>
@@ -127,8 +127,8 @@
     <string name="quick_text_tags_search">Suggereix emoticones en escriure l\'etiqueta</string>
     <string name="quick_text_tags_search_on_summary">Cerca emoticones en escriure inicialment el caràcter 2 punts (:)</string>
     <string name="hide_soft_when_physical">Amaga el teclat</string>
-    <string name="hide_soft_when_physical_on_summary">No mostris l\'AnySoftKeyboard en emprar el teclat físic</string>
-    <string name="hide_soft_when_physical_off_summary">Mostra l\'AnySoftKeyboard en emprar el teclat físic</string>
+    <string name="hide_soft_when_physical_on_summary">No mostris l\'SadSha Keyboard en emprar el teclat físic</string>
+    <string name="hide_soft_when_physical_off_summary">Mostra l\'SadSha Keyboard en emprar el teclat físic</string>
     <string name="enable_alt_space_language_shortcut">Alt + Espai canvia idiomes </string>
     <string name="enable_alt_space_language_shortcut_on_summary">Alt + Space desde hardware canvia a la següent distribució disponible. </string>
     <string name="enable_alt_space_language_shortcut_off_summary">Alt + Espai de hardware introdueix un espai. </string>
@@ -221,11 +221,11 @@
     </string>
     <string name="more_ui_settings_group">Interfície de l\'usuari</string>
     <string name="special_dictionaries_group">Diccionaris especials</string>
-    <string name="special_dictionaries_group_summary">Suggeriments utilitzats als diccionaris de l\'AnySoftKeyboard</string>
+    <string name="special_dictionaries_group_summary">Suggeriments utilitzats als diccionaris de l\'SadSha Keyboard</string>
     <string name="use_user_dictionary">Diccionari de l\'usuari</string>
     <string name="use_user_dictionary_on_summary">Suggereix paraules afegides per l\'usuari (toqueu 2 vegades al suggeriment per afegir-ho)</string>
     <string name="always_use_fallback_user_dictionary">Utilitza un emmagatzematge privat de diccionari d\'usuari.  </string>
-    <string name="always_use_fallback_user_dictionary_on_summary">Utilitza l\'emmagatzematge privat amb el diccionari d\'usuari facilitat per l\'AnySoftKeyboard.</string>
+    <string name="always_use_fallback_user_dictionary_on_summary">Utilitza l\'emmagatzematge privat amb el diccionari d\'usuari facilitat per l\'SadSha Keyboard.</string>
     <string name="always_use_fallback_user_dictionary_off_summary">Utilitza el diccionari d\'usuari global d\'Android</string>
     <string name="use_auto_dictionary">Diccionari automàtic</string>
     <string name="use_auto_dictionary_dialog_title">Seleccioneu el mètode d\'aprenentatge</string>
@@ -340,8 +340,8 @@
     <string name="lang_key_shows_popup_on_summary">Prement « → ABC → » es mostra una finestra de selecció dels teclats disponibles</string>
     <string name="lang_key_shows_popup_off_summary">Prement « → ABC → » es canvia directament entre els teclats disponibles</string>
     <string name="settings_os_clipboard_sync">Sincronitza el porta-retalls amb el sistema</string>
-    <string name="settings_os_clipboard_sync_summary_on">Detecta canvis al porta-retalls i sincronitza\'ls amb l\'AnySoftKeyboard.</string>
-    <string name="settings_os_clipboard_sync_summary_off">No permetis cap operació del porta-retalls fora de l\'AnySoftKeyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_on">Detecta canvis al porta-retalls i sincronitza\'ls amb l\'SadSha Keyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_off">No permetis cap operació del porta-retalls fora de l\'SadSha Keyboard.</string>
     <string name="auto_caps">Majúscules automàtiques</string>
     <string name="grammar_group">Gramàtica</string>
     <string name="keyboard_behavior_group">Comportament del teclat</string>
@@ -487,13 +487,13 @@
     <string name="settings_long_press_timeout_slower">Molt lenta</string>
     <string name="settings_long_press_timeout_never">Mai</string>
     <string name="settings_force_locale_title">Força el codi de llengua</string>
-    <string name="settings_force_locale_summary">Força els paràmetres regionals utilitzats a l\'AnySoftKeyboard (triga
+    <string name="settings_force_locale_summary">Força els paràmetres regionals utilitzats a l\'SadSha Keyboard (triga
         una mica a aplicar-se). Actualment: %s.
     </string>
     <string name="tweak_workarounds_group">Solucions</string>
     <string name="workaround_disable_rtl_fix">Escriptura «dreta a esquerra»</string>
     <string name="workaround_disable_rtl_fix_summary_on">Escriptura gestionada pel sistema (telèfons suportats)</string>
-    <string name="workaround_disable_rtl_fix_summary_off">Escriptura gestionada per l\'AnySoftKeyboard</string>
+    <string name="workaround_disable_rtl_fix_summary_off">Escriptura gestionada per l\'SadSha Keyboard</string>
     <string name="settings_split_state_title_portrait">Estat inicial d\'unió/divisió en mode vertical</string>
     <string name="settings_split_state_title_landscape">Estat inicial d\'unió/divisió en mode horitzontal</string>
     <string name="settings_split_state_summary">Defineix si el teclat està dividit per defecte. Actualment: %s</string>
@@ -542,15 +542,15 @@
     <string name="emoji_default_gender_value_random_type">Gènere a l’atzar</string>
     <string name="developer_tools">Eines de desenvolupadors</string>
     <string name="click_for_developer_features">Eines de desenvolupadors</string>
-    <string name="click_for_developer_features_summary">Diverses opcions per als desenvolupadors de l\'AnySoftKeyboard</string>
+    <string name="click_for_developer_features_summary">Diverses opcions per als desenvolupadors de l\'SadSha Keyboard</string>
     <string name="failed_to_create_mem_dump">Ha fallat en crear el volcat de memòria:
 <xliff:g id="message">%s</xliff:g>
     </string>
     <string name="created_mem_dump_file">S\'ha creat el volcat de memòria a:
 <xliff:g id="file_path">%s</xliff:g>
     </string>
-    <string name="not_configured_with_click_here">AnySoftKeyboard no és totalment a punt per al seu ús. Feu clic aquí per configurar-lo.</string>
-    <string name="not_notification_permission_text">L\'AnySoftKeyboard no té permisos per enviar notificacions. Això pot ser útil en situacions poc habituals (p. ex. en trobar un error).</string>
+    <string name="not_configured_with_click_here">SadSha Keyboard no és totalment a punt per al seu ús. Feu clic aquí per configurar-lo.</string>
+    <string name="not_notification_permission_text">L\'SadSha Keyboard no té permisos per enviar notificacions. Això pot ser útil en situacions poc habituals (p. ex. en trobar un error).</string>
     <string name="not_configured_with_just_click_here">Toqueu aquí</string>
     <!--  Strings for possible PreferenceActivity Back/Next buttons -->
     <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
@@ -563,27 +563,27 @@
     <string name="enter_abbreviation_target_hint">Frase completa</string>
     <string name="toast_error_custom_path_backup">Error: Qualsevol aplicació contextual podria estar en ús.</string>
     <string name="about_additional_software_licenses">Llicències de programari addicional</string>
-    <string name="setup_wizard_step_one_title">Activa l\'AnySoftKeyboard</string>
-    <string name="setup_wizard_step_one_details">En aquest pas, haureu d\'habilitar <i>AnySoftKeyboard</i>. Verifiqueu que heu seleccionat <i>\'AnySoftKeyboard\'</i> en les <i>entrades de llengua</i>. Això farà funcionar el nostre teclat al vostre dispositiu.</string>
+    <string name="setup_wizard_step_one_title">Activa l\'SadSha Keyboard</string>
+    <string name="setup_wizard_step_one_details">En aquest pas, haureu d\'habilitar <i>SadSha Keyboard</i>. Verifiqueu que heu seleccionat <i>\'SadSha Keyboard\'</i> en les <i>entrades de llengua</i>. Això farà funcionar el nostre teclat al vostre dispositiu.</string>
     <string name="setup_wizard_step_one_action">Aneu a la pàgina de <i>Configuració d\'entrada de llengua</i>…</string>
-    <string name="setup_wizard_step_one_action_error_no_settings_activity">Error: aquest dispositiu no suporta teclats de tercers. AnySoftKeyboard no pot ser activat!</string>
+    <string name="setup_wizard_step_one_action_error_no_settings_activity">Error: aquest dispositiu no suporta teclats de tercers. SadSha Keyboard no pot ser activat!</string>
     <string name="setup_wizard_step_permissions_title">Habilita els permisos</string>
-    <string name="setup_wizard_step_two_title">Canvieu per AnySoftKeyboard</string>
-    <string name="setup_wizard_step_two_details">El vostre sistema pot utilitzar <i>AnySoftKeyboard</i> ara, però no està definit com a teclat actiu. \nBy, <i>AnySoftKeyboard</i> serà el vostre nou teclat de pantalla, juntament amb totes les seves opcions!</string>
+    <string name="setup_wizard_step_two_title">Canvieu per SadSha Keyboard</string>
+    <string name="setup_wizard_step_two_details">El vostre sistema pot utilitzar <i>SadSha Keyboard</i> ara, però no està definit com a teclat actiu. \nBy, <i>SadSha Keyboard</i> serà el vostre nou teclat de pantalla, juntament amb totes les seves opcions!</string>
     <string name="setup_wizard_step_two_action">Interruptor de teclats actius</string>
     <string name="setup_wizard_step_three_title">Què més</string>
-    <string name="setup_wizard_step_three_details">Gràcies per triar l\'<i>AnySoftKeyboard</i>.</string>
+    <string name="setup_wizard_step_three_details">Gràcies per triar l\'<i>SadSha Keyboard</i>.</string>
     <string name="setup_wizard_step_three_details_done"><b>Heu finalitzat 🎉\nObriu la vostra aplicació favorita i feu un cop d\'ull.</b></string>
     <string name="setup_wizard_step_three_details_actions">O podeu adaptar i personalitzar el teclat al vostre gust:</string>
     <string name="setup_wizard_step_three_action_languages">Organitzeu les llengües…</string>
     <string name="setup_wizard_step_three_action_themes">Seleccioneu el tema…</string>
     <string name="setup_wizard_step_three_action_all_settings">Configureu tota la resta…</string>
     <string name="setup_wizard_step_download_title">Baixa paquets de llengua</string>
-    <string name="setup_wizard_step_download_details">Us agradarà saber que l\'<i>AnySoftKeyboard</i> suporta dotzenes de llengües. Només trieu l\'idioma desitjat dels paquets disponibles i gaudiu escrivint en
+    <string name="setup_wizard_step_download_details">Us agradarà saber que l\'<i>SadSha Keyboard</i> suporta dotzenes de llengües. Només trieu l\'idioma desitjat dels paquets disponibles i gaudiu escrivint en
         qualsevol llengua al vostre dispositiu.</string>
     <string name="setup_wizard_step_download_action">Baixa el paquet de llengua</string>
     <string name="setup_wizard_step_download_skip_action">Omet</string>
-    <string name="ime_crashed_text">Desafortunadament, hi ha un problema amb <i>AnySoftKeyboard</i>. No tingueu pànic, hi ha alguna cosa <b>que</b> que podeu fer per ajudar-nos a resoldre això: envieu-nos el report d\'accident, i farem el nostre millor esforç per a resoldre aquest accident i tornar amb una experiència impressionant de teclat! \n\nAmb la nostra disculpa sincera, l\'equip de desenvolupament.</string>
+    <string name="ime_crashed_text">Desafortunadament, hi ha un problema amb <i>SadSha Keyboard</i>. No tingueu pànic, hi ha alguna cosa <b>que</b> que podeu fer per ajudar-nos a resoldre això: envieu-nos el report d\'accident, i farem el nostre millor esforç per a resoldre aquest accident i tornar amb una experiència impressionant de teclat! \n\nAmb la nostra disculpa sincera, l\'equip de desenvolupament.</string>
     <string name="ime_crashed_send_button">Envia</string>
     <string name="ime_crashed_cancel_button">Cancel·la</string>
     <string name="ime_crashed_intent_selector_title">Envia report d\'accident mitjançant</string>
@@ -602,7 +602,7 @@
     <string name="wizard_allow_contacts_permission">Permet els contactes en escriure noms</string>
     <string name="turn_off_contacts_dictionary">Inhabilita el diccionari amb els contactes</string>
     <string name="read_more_about_permissions">Llegiu més sobre els permisos…</string>
-    <string name="ask_beta_link_promo">Ep! Voleu contingut nou i més ràpid a l\'<i>AnySoftKeyboard</i>? Llavors esteu d\'enhorabona! El canal <i>BETA</i> ja està <b>DISPONIBLE</b>!\nUniu-vos mitjançant l\'enllaç de sota i actualitzeu-vos al <i>Google Play-Store</i>!\n\n https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nGràcies per ajudar-nos a combatre els errors abans que l\'aplicació arribi al públic general.</string>
+    <string name="ask_beta_link_promo">Ep! Voleu contingut nou i més ràpid a l\'<i>SadSha Keyboard</i>? Llavors esteu d\'enhorabona! El canal <i>BETA</i> ja està <b>DISPONIBLE</b>!\nUniu-vos mitjançant l\'enllaç de sota i actualitzeu-vos al <i>Google Play-Store</i>!\n\n https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nGràcies per ajudar-nos a combatre els errors abans que l\'aplicació arribi al públic general.</string>
     <string name="clipboard_fine_select_enabled_toast">Selecció precisa de text activada. Empreu les fletxes esquerra/dreta.</string>
     <string name="app_shortcut_keyboards_disabled">Navegació amb fletxes inhabilitada</string>
     <string name="app_shortcut_keyboards_long_label">Trieu la disposició de teclat que voleu utilitzar</string>
@@ -626,15 +626,15 @@
     <string name="no_internet_fields_specific_layout">Cap</string>
     <string name="bottom_nav_home">Hola</string>
     <string name="setup_wizard_welcome_title">Benvingut!</string>
-    <string name="setup_wizard_welcome_sub_title">Gràcies per triar l\'AnySoftKeyboard!
+    <string name="setup_wizard_welcome_sub_title">Gràcies per triar l\'SadSha Keyboard!
     </string>
     <string name="setup_wizard_welcome_info">Com qualsevol altre teclat per a Android, heu d\'activar 
-        l\'AnySoftKeyboard a les opcions del sistema. Això és necessari per assegurar que
+        l\'SadSha Keyboard a les opcions del sistema. Això és necessari per assegurar que
         el que escriviu no sigui capturat per teclats malignes*.
     </string>
     <string name="setup_wizard_welcome_info_2">Som-hi? Toqueu avall per a iniciar el procés guiat.</string>
     <string name="setup_wizard_welcome_start_action">Inicia la configuració…</string>
-    <string name="setup_wizard_welcome_info_footnote">* Òbviament, l\'AnySoftKeyboard no és maligne.
+    <string name="setup_wizard_welcome_info_footnote">* Òbviament, l\'SadSha Keyboard no és maligne.
         Podeu auditar el seu codi font per a verificar-ho. A més no té permisos de <i>XARXA
         </i>, cosa que fa impossible enviar cap dada fora del vostre dispositiu.
     </string>
@@ -685,16 +685,16 @@
     <string name="aosp_dark_theme_description">Teclat de colors foscos inspirat en AOSP</string>
     <string name="aosp_light_theme_name">Tema AOSP clar</string>
     <string name="aosp_light_theme_description">Teclat de colors clars inspirat en AOSP</string>
-    <string name="app_share_title">Hola des de l\'AnySoftKeyboard</string>
-    <string name="app_share_menu_title">Comparteix l\'AnySoftKeyboard mitjançant</string>
-    <string name="app_share_text">Et recomano l\'AnySoftKeyboard; un teclat per a Android de codi lliure i gratuït, multillengua i molt personalitzable, focalitzat en la privadesa.\nGet Disponible al:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_title">Hola des de l\'SadSha Keyboard</string>
+    <string name="app_share_menu_title">Comparteix l\'SadSha Keyboard mitjançant</string>
+    <string name="app_share_text">Et recomano l\'SadSha Keyboard; un teclat per a Android de codi lliure i gratuït, multillengua i molt personalitzable, focalitzat en la privadesa.\nGet Disponible al:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">Sorprèn-me</string>
     <string name="delete_all_clipboard_entries">Buida el porta-retalls</string>
     <string name="tip_swipe_from_backspace_to_clear">Truc: podeu lliscar la tecla retrocès cap a l\'esquerra per suprimir el mot!</string>
     <string name="notification_read_contacts_ticker">Permís de contactes necessari</string>
     <string name="notification_action_approve_permission">Aprovar permís</string>
     <string name="notification_action_dismiss_permission">Inhabilita el diccionari amb els contactes</string>
-    <string name="wizard_allow_notification_permission">Permet notificacions de l\'AnySoftKeyboard</string>
+    <string name="wizard_allow_notification_permission">Permet notificacions de l\'SadSha Keyboard</string>
     <string name="setup_wizard_step_notification_permissions_details">En situacions poc habituals (p. ex. si l\'aplicació falla) necessitarem enviar una notificació. És una opció recomanable, però inhabilitar el servei de notificacions no afectarà el comportament de l\'aplicació.</string>
     <string name="wizard_skip_notification_permission">No permitis notificacions</string>
 </resources>

@@ -5,7 +5,7 @@
     <string name="debug_tracing_finished">Tracing beendet!\nDie Datei ist 
 <xliff:g id="trace_file">%s</xliff:g></string>
     <string name="menu_about_item">Über</string>
-    <string name="how_to_pointer_title">Willkommen bei AnySoftKeyboard</string>
+    <string name="how_to_pointer_title">Willkommen bei SadSha Keyboard</string>
     <string name="change_log_card_version_title_template">\u0020\u0020Neueste Änderungen für v<xliff:g id="name">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_entry_header_template_without_name">\u0020\u0020v <xliff:g id="code">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_url">Mehr:\u0020<xliff:g id="url">%s</xliff:g></string>
@@ -66,7 +66,7 @@
     <string name="night_mode_sound_control">Eingabetöne deaktivieren</string>
     <string name="night_mode_vibration_control">Deaktiviere Tastendruckvibrationen</string>
     <string name="power_save_mode_screen">Energiespareinstellungen</string>
-    <string name="power_save_mode_description">Der Energiesparmodus reduziert den Energieverbrauch von AnySoftKeyboard, indem diese Funktionen deaktiviert werden:</string>
+    <string name="power_save_mode_description">Der Energiesparmodus reduziert den Energieverbrauch von SadSha Keyboard, indem diese Funktionen deaktiviert werden:</string>
     <string name="power_save_mode_state_summary">Derzeitiger Energiesparauslöser: \u0020%s</string>
     <string name="power_save_mode_dialog_title">Energiesparmodus aktivieren</string>
     <string name="power_save_mode_types_never">Nie</string>
@@ -206,11 +206,11 @@
     <string name="volume_key_for_left_right_support_off_summary">Lautstärke hoch verschiebt den Cursor nach links, Lautstärke runter nach rechts</string>
     <string name="more_ui_settings_group">Benutzeroberfläche</string>
     <string name="special_dictionaries_group">Spezialwörterbücher</string>
-    <string name="special_dictionaries_group_summary">In AnySoftKeyboard verwendete Vorschlagswörterbücher</string>
+    <string name="special_dictionaries_group_summary">In SadSha Keyboard verwendete Vorschlagswörterbücher</string>
     <string name="use_user_dictionary">Benutzerwörterbuch</string>
     <string name="use_user_dictionary_on_summary">Schlägt vom Benutzer hinzugefügte Wörter vor (Doppelklick auf ein eingetipptes Wort zum Hinzufügen)</string>
     <string name="always_use_fallback_user_dictionary">Benutze privaten Benutzerwörterbuchspeicher</string>
-    <string name="always_use_fallback_user_dictionary_on_summary">Verwenden den privaten Speicher für AnySoftKeyboard\'s eingebauten Benutzerwörterbuch-Mechanismus.</string>
+    <string name="always_use_fallback_user_dictionary_on_summary">Verwenden den privaten Speicher für SadSha Keyboard\'s eingebauten Benutzerwörterbuch-Mechanismus.</string>
     <string name="always_use_fallback_user_dictionary_off_summary">Versuchen Android\'s global eingebautes Benutzerwörterbuch zu verwenden.</string>
     <string name="use_auto_dictionary">Automatisches Wörterbuch</string>
     <string name="use_auto_dictionary_dialog_title">Lernmethode wählen</string>
@@ -321,8 +321,8 @@
     <string name="lang_key_shows_popup_on_summary">Sprachtaste öffnet Auswahldialog</string>
     <string name="lang_key_shows_popup_off_summary">Sprachtaste wechselt durch Sprachen</string>
     <string name="settings_os_clipboard_sync">Synchronisiere die Zwischenablage mit dem Betriebssystem</string>
-    <string name="settings_os_clipboard_sync_summary_on">Erkenne Änderungen der Zwischenablage und synchronisiere sie mit AnySoftKeyboard.</string>
-    <string name="settings_os_clipboard_sync_summary_off">Höre nicht auf Zwischenablagevorgänge außerhalb von AnySoftKeyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_on">Erkenne Änderungen der Zwischenablage und synchronisiere sie mit SadSha Keyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_off">Höre nicht auf Zwischenablagevorgänge außerhalb von SadSha Keyboard.</string>
     <string name="auto_caps">Automatische Großschreibung</string>
     <string name="grammar_group">Grammatik</string>
     <string name="keyboard_behavior_group">Tastaturverhalten</string>
@@ -466,11 +466,11 @@
     <string name="settings_long_press_timeout_slower">Langsamer</string>
     <string name="settings_long_press_timeout_never">Niemals</string>
     <string name="settings_force_locale_title">Erzwinge Region</string>
-    <string name="settings_force_locale_summary">Erzwingt die in AnySoftKeyboard verwendete Region (es dauert eine Weile, bis es wirksam wird). Derzeit: %s.</string>
+    <string name="settings_force_locale_summary">Erzwingt die in SadSha Keyboard verwendete Region (es dauert eine Weile, bis es wirksam wird). Derzeit: %s.</string>
     <string name="tweak_workarounds_group">Zwischenlösungen</string>
     <string name="workaround_disable_rtl_fix">Deaktivieren der Rechts nach Links Handhabung</string>
     <string name="workaround_disable_rtl_fix_summary_on">Verwende RTL Handling vom Betriebssystem. Sollte auf neueren Geräten gut funtkionieren.</string>
-    <string name="workaround_disable_rtl_fix_summary_off">Verwende AnySoftKeyboard RTL Handling. Sollte nur genutzt werden, wenn RTL Handling vom Betriebssystem fehlschlägt.</string>
+    <string name="workaround_disable_rtl_fix_summary_off">Verwende SadSha Keyboard RTL Handling. Sollte nur genutzt werden, wenn RTL Handling vom Betriebssystem fehlschlägt.</string>
     <string name="settings_split_state_title_portrait">Initialer Status im Hochformat getrennt/zusammengefügt</string>
     <string name="settings_split_state_title_landscape">Initialer Status im Querformat getrennt/zusammengefügt</string>
     <string name="settings_split_state_summary">Legen Sie fest ob die Tastatur standardmäßig geteilt wird. Jetzt: %s</string>
@@ -516,11 +516,11 @@
     <string name="emoji_default_gender_value_random_type">Zufälliges Geschlecht</string>
     <string name="developer_tools">Entwicklerwerkzeuge</string>
     <string name="click_for_developer_features">Entwicklerwerkzeuge</string>
-    <string name="click_for_developer_features_summary">Verschiedene Werkzeuge für AnySoftKeyboard Entwickler</string>
+    <string name="click_for_developer_features_summary">Verschiedene Werkzeuge für SadSha Keyboard Entwickler</string>
     <string name="failed_to_create_mem_dump">Fehler beim Erstellen des Arbeitsspeicherabbilds wegen: <xliff:g id="message">%s </xliff:g>     </string>
     <string name="created_mem_dump_file">Arbeitsspeicherabbild erstellt unter: <xliff:g id="file_path">%s </xliff:g>         </string>
-    <string name="not_configured_with_click_here">AnySoftKeyboard wurde noch nicht vollständig für den Einsatz konfiguriert. Klicken Sie hier, um die Einrichtung abzuschließen.</string>
-    <string name="not_notification_permission_text">AnySoftKeyboard hat keine Berechtigung, Benachrichtigungen anzuzeigen. Gelegentlich müssen wir dich über kritische Probleme informieren (wie Abstürze).</string>
+    <string name="not_configured_with_click_here">SadSha Keyboard wurde noch nicht vollständig für den Einsatz konfiguriert. Klicken Sie hier, um die Einrichtung abzuschließen.</string>
+    <string name="not_notification_permission_text">SadSha Keyboard hat keine Berechtigung, Benachrichtigungen anzuzeigen. Gelegentlich müssen wir dich über kritische Probleme informieren (wie Abstürze).</string>
     <string name="not_configured_with_just_click_here">Hier klicken</string>
     <!--  Strings for possible PreferenceActivity Back/Next buttons -->
     <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
@@ -533,26 +533,26 @@
     <string name="enter_abbreviation_target_hint">Ganzer Satz</string>
     <string name="toast_error_custom_path_backup">Fehler: Eine abhängige App könnte geöffnet sein</string>
     <string name="about_additional_software_licenses">Zusätzliche Softwarelizenzen</string>
-    <string name="setup_wizard_step_one_title">AnySoftKeyboard aktivieren</string>
-    <string name="setup_wizard_step_one_details">In diesem Schritt musst du <i>AnySoftKeyboard</i> aktivieren. Bitte wähle <i>\„AnySoftKeyboard\“</i> in deinen <i>Sprach- und Eingabeeinstellungen</i> an. Das ermöglicht der App, auf deinem Gerät zu laufen.</string>
+    <string name="setup_wizard_step_one_title">SadSha Keyboard aktivieren</string>
+    <string name="setup_wizard_step_one_details">In diesem Schritt musst du <i>SadSha Keyboard</i> aktivieren. Bitte wähle <i>\„SadSha Keyboard\“</i> in deinen <i>Sprach- und Eingabeeinstellungen</i> an. Das ermöglicht der App, auf deinem Gerät zu laufen.</string>
     <string name="setup_wizard_step_one_action">Gehe zu deinen <i>Sprach- und Eingabeeinstellungen</i> …</string>
-    <string name="setup_wizard_step_one_action_error_no_settings_activity">Fehler: Dein Gerät unterstützt keine Drittanbietertastatur. AnySoftKeyboard kann nicht aktiviert werden!</string>
+    <string name="setup_wizard_step_one_action_error_no_settings_activity">Fehler: Dein Gerät unterstützt keine Drittanbietertastatur. SadSha Keyboard kann nicht aktiviert werden!</string>
     <string name="setup_wizard_step_permissions_title">Aktiviere die Berechtigungen</string>
-    <string name="setup_wizard_step_two_title">Wechsel zu AnySoftKeyboard</string>
-    <string name="setup_wizard_step_two_details">Das Gerät kann nun <i>AnySoftKeyboard</i> verwenden, aber es ist nicht als aktive Tastatur eingestellt.\nNach dem Wechsel wird <i>AnySoftKeyboard</i> deine neue Bildschirmtastatur mit all seinen Funktionen sein!</string>
+    <string name="setup_wizard_step_two_title">Wechsel zu SadSha Keyboard</string>
+    <string name="setup_wizard_step_two_details">Das Gerät kann nun <i>SadSha Keyboard</i> verwenden, aber es ist nicht als aktive Tastatur eingestellt.\nNach dem Wechsel wird <i>SadSha Keyboard</i> deine neue Bildschirmtastatur mit all seinen Funktionen sein!</string>
     <string name="setup_wizard_step_two_action">Aktive Tastatur wechseln</string>
     <string name="setup_wizard_step_three_title">Was nun</string>
-    <string name="setup_wizard_step_three_details">Danke, dass du dich für <i>AnySoftKeyboard</i> entschieden hast.</string>
+    <string name="setup_wizard_step_three_details">Danke, dass du dich für <i>SadSha Keyboard</i> entschieden hast.</string>
     <string name="setup_wizard_step_three_details_done"><b>Du hast es geschafft 🎉\nÖffne deine Lieblings-App, um es auszuprobieren.</b></string>
     <string name="setup_wizard_step_three_details_actions">Oder passe die Tastatur an deine eigenen Bedürfnisse an und personalisiere sie:</string>
     <string name="setup_wizard_step_three_action_languages">Sprachen einrichten …</string>
     <string name="setup_wizard_step_three_action_themes">Design wählen …</string>
     <string name="setup_wizard_step_three_action_all_settings">Alles Andere konfigurieren …</string>
     <string name="setup_wizard_step_download_title">Lade Sprachpakete herunter</string>
-    <string name="setup_wizard_step_download_details">Es wird dich freuen zu hören, dass <i>AnySoftKeyboard</i> dutzende Sprachen unterstützt. Lade einfach das gewünschte Sprachpaket herunter und genieße das Tippen in jeder Sprache auf deinem Gerät.</string>
+    <string name="setup_wizard_step_download_details">Es wird dich freuen zu hören, dass <i>SadSha Keyboard</i> dutzende Sprachen unterstützt. Lade einfach das gewünschte Sprachpaket herunter und genieße das Tippen in jeder Sprache auf deinem Gerät.</string>
     <string name="setup_wizard_step_download_action">Sprachpaket herunterladen</string>
     <string name="setup_wizard_step_download_skip_action">Überspringen</string>
-    <string name="ime_crashed_text">Leider gibt es ein Problem mit <i>AnySoftKeyboard</i>. Keine Panik, es gibt etwas, dass <b>du</b> tun kannst, um uns zu helfen dieses Problem zu beheben: Sende uns den Absturzbericht und wir tun unser Bestes, um dieses Problem zu beheben, damit du wieder in den Genuss einer großartigen Tastaturerfahrung kommst!\n\nWir bitten um Entschuldigung, dein Entwicker-Team.</string>
+    <string name="ime_crashed_text">Leider gibt es ein Problem mit <i>SadSha Keyboard</i>. Keine Panik, es gibt etwas, dass <b>du</b> tun kannst, um uns zu helfen dieses Problem zu beheben: Sende uns den Absturzbericht und wir tun unser Bestes, um dieses Problem zu beheben, damit du wieder in den Genuss einer großartigen Tastaturerfahrung kommst!\n\nWir bitten um Entschuldigung, dein Entwicker-Team.</string>
     <string name="ime_crashed_send_button">Senden</string>
     <string name="ime_crashed_cancel_button">Abbrechen</string>
     <string name="ime_crashed_intent_selector_title">Senden Sie den Fehlerbericht per</string>
@@ -571,7 +571,7 @@
     <string name="wizard_allow_contacts_permission">Kontaktbasierte Tippvorschläge zulassen</string>
     <string name="turn_off_contacts_dictionary">Kontaktwörterbuch ausschalten</string>
     <string name="read_more_about_permissions">Lies mehr über Berechtigungen …</string>
-    <string name="ask_beta_link_promo">Hey! Möchtest du <i>AnySoftKeyboard</i>-Updates schneller bekommen? Dann hast du Glück! Der <i>BETA</i>-Kanal ist jetzt für <b>DICH</b> verfügbar!\nWerde Tester durch den untenstehenden Link und update im <i>Google Play</i> Appstore!\n\n https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nUnd danke, dass du dabei hilfst Fehler zu beheben bevor sie die Öffentlichkeit erreichen.</string>
+    <string name="ask_beta_link_promo">Hey! Möchtest du <i>SadSha Keyboard</i>-Updates schneller bekommen? Dann hast du Glück! Der <i>BETA</i>-Kanal ist jetzt für <b>DICH</b> verfügbar!\nWerde Tester durch den untenstehenden Link und update im <i>Google Play</i> Appstore!\n\n https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nUnd danke, dass du dabei hilfst Fehler zu beheben bevor sie die Öffentlichkeit erreichen.</string>
     <string name="clipboard_fine_select_enabled_toast">Feintextauswahl aktiviert. Benutze die links/rechts Pfeile.</string>
     <string name="app_shortcut_keyboards_disabled">Tastaturennavigation deaktiviert</string>
     <string name="app_shortcut_keyboards_long_label">Wähle die zu verwendenden Tastaturlayouts</string>
@@ -595,11 +595,11 @@
     <string name="no_internet_fields_specific_layout">Keiner</string>
     <string name="bottom_nav_home">Hallo</string>
     <string name="setup_wizard_welcome_title">Willkommen!</string>
-    <string name="setup_wizard_welcome_sub_title">Danke, dass du AnySoftKeyboard ausprobierst!</string>
-    <string name="setup_wizard_welcome_info">Wie bei jeder anderen Android-Tastatur musst du AnySoftKeyboard in den Android-Einstellungen aktivieren. Dies wird von Android benötigt, um sicherzustellen, dass die Eingaben nicht von bösartigen Tastaturen* gestohlen werden.</string>
+    <string name="setup_wizard_welcome_sub_title">Danke, dass du SadSha Keyboard ausprobierst!</string>
+    <string name="setup_wizard_welcome_info">Wie bei jeder anderen Android-Tastatur musst du SadSha Keyboard in den Android-Einstellungen aktivieren. Dies wird von Android benötigt, um sicherzustellen, dass die Eingaben nicht von bösartigen Tastaturen* gestohlen werden.</string>
     <string name="setup_wizard_welcome_info_2">Okay, bereit? Klicke unten, um zu beginnen, ich werde dich dabei begleiten.</string>
     <string name="setup_wizard_welcome_start_action">Einrichtung beginnen …</string>
-    <string name="setup_wizard_welcome_info_footnote">* AnySoftKeyboard ist natürlich nicht böse. Wir empfehlen unseren Quellcode anzusehen und zu überprüfen. Außerdem verfügen wir nicht über <i>NETZWERK</i>-Berechtigungen, sodass wir keine Daten vom Gerät senden können.</string>
+    <string name="setup_wizard_welcome_info_footnote">* SadSha Keyboard ist natürlich nicht böse. Wir empfehlen unseren Quellcode anzusehen und zu überprüfen. Außerdem verfügen wir nicht über <i>NETZWERK</i>-Berechtigungen, sodass wir keine Daten vom Gerät senden können.</string>
     <string name="setup_wizard_welcome_privacy_action">Zur Datenschutzrichtlinie …</string>
     <string name="setup_wizard_skip">Überspringen</string>
     <string name="clear_all_dictionary_override">Lösche Überschreibungen</string>
@@ -648,14 +648,14 @@
     <string name="aosp_dark_theme_description">AOSP-inspiriertes dunkles Tastaturfarbendesign</string>
     <string name="aosp_light_theme_name">Helles AOSP Design</string>
     <string name="aosp_light_theme_description">AOSP-inspiriertes helles Tastaturfarbendesign</string>
-    <string name="app_share_title">Hallo von AnySoftKeyboard</string>
-    <string name="app_share_menu_title">Teile AnySoftKeyboard mittels</string>
-    <string name="app_share_text">Lass mich dir die Open-Source, Privatsphäre-fokussierte, kostenlose, höchst anpassbare, mehrsprachige Android Tastatur-App AnySoftKeyboard empfehlen.\nHole sie dir vom:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_title">Hallo von SadSha Keyboard</string>
+    <string name="app_share_menu_title">Teile SadSha Keyboard mittels</string>
+    <string name="app_share_text">Lass mich dir die Open-Source, Privatsphäre-fokussierte, kostenlose, höchst anpassbare, mehrsprachige Android Tastatur-App SadSha Keyboard empfehlen.\nHole sie dir vom:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">für eine Überraschung klicken</string>
     <string name="delete_all_clipboard_entries">Leere Zwischenablage</string>
     <string name="tip_swipe_from_backspace_to_clear">Tipp: Sie können mit der Rücktaste nach links wischen, um das Wort zu löschen!</string>
     <string name="notification_read_contacts_ticker">Kontakt-Berechtigung erforderlich</string>
-    <string name="wizard_allow_notification_permission">Benachrichtigungen von AnySoftKeyboard zulassen</string>
+    <string name="wizard_allow_notification_permission">Benachrichtigungen von SadSha Keyboard zulassen</string>
     <string name="setup_wizard_step_notification_permissions_details">In seltenen Fällen (z. B. bei App-Abstürzen) müssen wir eine Gerätebenachrichtigung anzeigen. Dies wird empfohlen, aber das Deaktivieren davon wird das Verhalten dieser App nicht beeinträchtigen.</string>
     <string name="wizard_skip_notification_permission">Benachrichtigungen nicht zulassen</string>
     <string name="touch_trajectory_correction_title">Korrektur der Touch-Spurführung</string>

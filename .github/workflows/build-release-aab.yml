@@ -1,0 +1,70 @@
+name: Build release AAB
+
+# Manual only. Requires the release keystore in GitHub secrets:
+#   KEYSTORE_BASE64  - base64 of the release .keystore file
+#   KEYSTORE_PASSWORD - keystore password (KEY_STORE_FILE_PASSWORD)
+#   KEY_PASSWORD      - key password (KEY_STORE_FILE_DEFAULT_ALIAS_PASSWORD)
+# The keystore is decoded to /tmp/anysoftkeyboard.keystore, which is where
+# gradle/apk_module.gradle expects it; alias is 'sadshakeyboard'.
+# Qasim creates his own release keystore — never commit one to the repo.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK 21
+        uses: actions/setup-java@v4
+        with:
+          java-version: "21"
+          distribution: "temurin"
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v4
+        with:
+          cmdline-tools-version: 13114758
+
+      - name: Install Android SDK packages
+        run: |
+          yes | sdkmanager --licenses
+          sdkmanager "platforms;android-37" "build-tools;36.1.0" "ndk;29.0.14206865" "cmake;3.22.1"
+          echo "sdk.dir=${ANDROID_HOME}" > local.properties
+
+      - name: Cache Gradle
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: gradle-${{ runner.os }}-${{ hashFiles('**/*.gradle*', '**/gradle-wrapper.properties') }}
+          restore-keys: |
+            gradle-${{ runner.os }}-
+
+      - name: Decode release keystore
+        env:
+          KEYSTORE_BASE64: ${{ secrets.KEYSTORE_BASE64 }}
+        run: |
+          if [ -z "$KEYSTORE_BASE64" ]; then
+            echo "::error::KEYSTORE_BASE64 secret is not set. Add Qasim's release keystore to GitHub secrets first."
+            exit 1
+          fi
+          echo "$KEYSTORE_BASE64" | base64 -d > /tmp/anysoftkeyboard.keystore
+
+      - name: Build release AAB (all 54 languages)
+        env:
+          KEY_STORE_FILE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          KEY_STORE_FILE_DEFAULT_ALIAS_PASSWORD: ${{ secrets.KEY_PASSWORD }}
+        run: ./gradlew :ime:app:bundleAllAddOnsRelease --stacktrace
+
+      - name: Upload AAB
+        uses: actions/upload-artifact@v4
+        with:
+          name: sadsha-keyboard-release-aab
+          path: |
+            ime/app/build/outputs/bundle/allAddOnsRelease/*.aab
+            outputs/bundle/*.aab
+          retention-days: 7

@@ -4,7 +4,7 @@
     <string name="debug_tracing_starting_failed">Sporing kunne ikke starte! Se logcat for detaljer.</string>
     <string name="debug_tracing_finished">Sporing ferdig!\nSporingsfilen er\u0020<xliff:g id="trace_file">%s</xliff:g></string>
     <string name="menu_about_item">Om</string>
-    <string name="how_to_pointer_title">Velkommen til AnySoftKeyboard</string>
+    <string name="how_to_pointer_title">Velkommen til SadSha Keyboard</string>
     <string name="change_log_card_version_title_template">\u0020\u0020Siste endringer for v <xliff:g id="name">%s </xliff:g> \u0020\u0020</string>
     <string name="change_log_entry_header_template_without_name">\u0020\u0020v<xliff:g id="code">%s</xliff:g>\u0020\u0020</string>
     <string name="change_log_url">Mer:\u0020
@@ -67,7 +67,7 @@
     <string name="night_mode_sound_control">Deaktiver tastetrykklyder</string>
     <string name="night_mode_vibration_control">Deaktiver tastetrykkvibrasjoner</string>
     <string name="power_save_mode_screen">Strømsparingsinnstillinger</string>
-    <string name="power_save_mode_description">Strømsparingsmodus vil redusere strømforbruket til AnySoftKeyboard ved å deaktivere funksjoner:</string>
+    <string name="power_save_mode_description">Strømsparingsmodus vil redusere strømforbruket til SadSha Keyboard ved å deaktivere funksjoner:</string>
     <string name="power_save_mode_state_summary">Gjeldende strømsparingstrigger:\u0020%s</string>
     <string name="power_save_mode_dialog_title">Aktiver strømsparingsmodus</string>
     <string name="power_save_mode_types_never">Aldri</string>
@@ -200,7 +200,7 @@
     <string name="volume_key_for_left_right_support_off_summary">Volum opp flytter markør til venstre, volum ned flytter markør til høyre</string>
     <string name="more_ui_settings_group">Brukerflate</string>
     <string name="special_dictionaries_group">Spesial-ordlister</string>
-    <string name="special_dictionaries_group_summary">Forslagsordlister brukt i AnySoftKeyboard    </string>
+    <string name="special_dictionaries_group_summary">Forslagsordlister brukt i SadSha Keyboard    </string>
     <string name="use_user_dictionary">Bruker-ordliste</string>
     <string name="use_user_dictionary_on_summary">Foreslå ord som er lagt til av brukeren (dobbeltrykk på et skrevet forslag for å legge det til)</string>
     <string name="use_auto_dictionary">Auto-ordliste</string>
@@ -307,8 +307,8 @@
     <string name="lang_key_shows_popup_on_summary">Språktast vil vise en dialog for alternativer    </string>
     <string name="lang_key_shows_popup_off_summary">Språktast vil bla gjennom språkene</string>
     <string name="settings_os_clipboard_sync">Synkroniser utklippstavle med operativsystem</string>
-    <string name="settings_os_clipboard_sync_summary_on">Registrer utklippstavleendringer og synkroniser med AnySoftKeyboard.</string>
-    <string name="settings_os_clipboard_sync_summary_off">Ikke lytt til utklippstavleoperasjoner utenfor AnySoftKeyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_on">Registrer utklippstavleendringer og synkroniser med SadSha Keyboard.</string>
+    <string name="settings_os_clipboard_sync_summary_off">Ikke lytt til utklippstavleoperasjoner utenfor SadSha Keyboard.</string>
     <string name="auto_caps">Automatisk stor forbokstav</string>
     <string name="grammar_group">Grammatikk</string>
     <string name="keyboard_behavior_group">Tastaturvirkemåte</string>
@@ -407,7 +407,7 @@
     <string name="settings_long_press_timeout_slower">Langsommere</string>
     <string name="settings_long_press_timeout_never">Aldri</string>
     <string name="settings_force_locale_title">Påtving språk</string>
-    <string name="settings_force_locale_summary">Påtving språk brukt i AnySoftKeyboard (tar en stund for å tre i kraft). Gjeldende: %s.
+    <string name="settings_force_locale_summary">Påtving språk brukt i SadSha Keyboard (tar en stund for å tre i kraft). Gjeldende: %s.
     </string>
     <string name="settings_split_state_title_portrait">Delt/Sammenslått starttilstand for portrettmodus</string>
     <string name="settings_split_state_title_landscape">Delt/Sammenslått starttilstand for landskapsmodus</string>
@@ -437,8 +437,8 @@
     <string name="initial_quick_text_tab_history_tab">Start med historikkgruppe</string>
     <string name="developer_tools">Utviklerverktøy</string>
     <string name="click_for_developer_features">Utviklerverktøy</string>
-    <string name="click_for_developer_features_summary">Ulike verktøy for AnySoftKeyboard-utviklere    </string>
-    <string name="not_configured_with_click_here">AnySoftKeyboard er ikke helt satt opp for bruk. Trykk her for å sette opp.
+    <string name="click_for_developer_features_summary">Ulike verktøy for SadSha Keyboard-utviklere    </string>
+    <string name="not_configured_with_click_here">SadSha Keyboard er ikke helt satt opp for bruk. Trykk her for å sette opp.
     </string>
     <string name="not_configured_with_just_click_here">Trykk her</string>
     <!--  Strings for possible PreferenceActivity Back/Next buttons -->
@@ -451,18 +451,18 @@
     <string name="enter_abbreviation_hint">Forkortelse</string>
     <string name="enter_abbreviation_target_hint">Full setning</string>
     <string name="about_additional_software_licenses">Flere programvarelisenser</string>
-    <string name="setup_wizard_step_one_title">Aktiver AnySoftKeyboard</string>
-    <string name="setup_wizard_step_one_details">I dette trinnet må du aktivere <i>AnySoftKeyboard</i>. Sjekk <i>\'AnySoftKeyboard\'</i> i dine innstillinger for <i>Språk og inndata</i>. Dette vil tillate appen å kjøre på enheten.
+    <string name="setup_wizard_step_one_title">Aktiver SadSha Keyboard</string>
+    <string name="setup_wizard_step_one_details">I dette trinnet må du aktivere <i>SadSha Keyboard</i>. Sjekk <i>\'SadSha Keyboard\'</i> i dine innstillinger for <i>Språk og inndata</i>. Dette vil tillate appen å kjøre på enheten.
     </string>
     <string name="setup_wizard_step_one_action">Gå til dine innstillinger for <i>Språk og inndata</i>…
     </string>
-    <string name="setup_wizard_step_one_action_error_no_settings_activity">Feil: Enheten din støtter ikke tredjeparts tastaturer. AnySoftKeyboard kan ikke aktiveres!
+    <string name="setup_wizard_step_one_action_error_no_settings_activity">Feil: Enheten din støtter ikke tredjeparts tastaturer. SadSha Keyboard kan ikke aktiveres!
     </string>
     <string name="setup_wizard_step_permissions_title">Aktiver tillatelser</string>
-    <string name="setup_wizard_step_two_title">Bytt til AnySoftKeyboard</string>
-    <string name="setup_wizard_step_two_details">Systemet ditt kan bruke <i>AnySoftKeyboard</i> nå, men det er ikke stilt inn som det aktive tastaturet.\nVed å skifte vil <i>AnySoftKeyboard</i> bli ditt nye skjermtastatur med alle sine funksjoner!    </string>
+    <string name="setup_wizard_step_two_title">Bytt til SadSha Keyboard</string>
+    <string name="setup_wizard_step_two_details">Systemet ditt kan bruke <i>SadSha Keyboard</i> nå, men det er ikke stilt inn som det aktive tastaturet.\nVed å skifte vil <i>SadSha Keyboard</i> bli ditt nye skjermtastatur med alle sine funksjoner!    </string>
     <string name="setup_wizard_step_two_action">Bytt aktive tastaturer</string>
-    <string name="setup_wizard_step_three_details">Takk for at du valgte <i>AnySoftKeyboard</i>.
+    <string name="setup_wizard_step_three_details">Takk for at du valgte <i>SadSha Keyboard</i>.
     </string>
     <string name="setup_wizard_step_three_details_done">
         <b>Du er ferdig 🎉\nGå til favorittappen din for å prøve det ut.</b>
@@ -471,7 +471,7 @@
     <string name="setup_wizard_step_three_action_themes">Velg tema…</string>
     <string name="setup_wizard_step_three_action_all_settings">Still inn alt annet…</string>
     <string name="setup_wizard_step_download_title">Last ned språkpakker</string>
-    <string name="setup_wizard_step_download_details"><i>AnySoftKeyboard</i> støtter dusinvis av språk. Bare last ned ønsket språkpakke og gled deg over å kunne skrive på språket du ønsker på enheten din.</string>
+    <string name="setup_wizard_step_download_details"><i>SadSha Keyboard</i> støtter dusinvis av språk. Bare last ned ønsket språkpakke og gled deg over å kunne skrive på språket du ønsker på enheten din.</string>
     <string name="setup_wizard_step_download_action">Last ned språkpakke</string>
     <string name="setup_wizard_step_download_skip_action">Hopp over</string>
     <string name="ime_crashed_send_button">Send</string>
@@ -513,7 +513,7 @@
     <string name="no_internet_fields_specific_layout">Ingen</string>
     <string name="bottom_nav_home">Hjem</string>
     <string name="setup_wizard_welcome_title">Velkommen!</string>
-    <string name="setup_wizard_welcome_sub_title">Takk for at du gir AnySoftKeyboard et forsøk!    </string>
+    <string name="setup_wizard_welcome_sub_title">Takk for at du gir SadSha Keyboard et forsøk!    </string>
     <string name="setup_wizard_welcome_start_action">Start oppsettet…</string>
     <string name="setup_wizard_welcome_privacy_action">Gå til personvernerklæring…</string>
     <string name="clear_all_dictionary_override">Fjern overstyringer</string>
