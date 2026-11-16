@@ -39,13 +39,15 @@ jobs:
             gradle-${{ runner.os }}-
 
       - name: Build debug APK (all 54 languages)
-        run: ./gradlew :ime:app:assembleAllAddOnsDebug --stacktrace
+        # allAddOns is itself the build type: the task is assembleAllAddOns
+        # (no 'Debug' suffix) and the APK lands in apk/allAddOns/.
+        run: ./gradlew :ime:app:assembleAllAddOns --stacktrace
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: sadsha-keyboard-debug-apk
           path: |
-            ime/app/build/outputs/apk/allAddOns/debug/*.apk
+            ime/app/build/outputs/apk/allAddOns/*.apk
             outputs/apk/*.apk
           retention-days: 7

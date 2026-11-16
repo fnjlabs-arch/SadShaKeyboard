@@ -39,6 +39,15 @@ android {
 
             matchingFallbacks = ['debug']
         }
+
+        // SadSha: release variant that bundles all 54 language packs
+        // (plain 'release' does not include the packs). Used by the
+        // release-AAB workflow for the Play Store build.
+        allAddOnsRelease {
+            initWith buildTypes.release
+
+            matchingFallbacks = ['release']
+        }
     }
 }
 
@@ -86,6 +95,20 @@ android {
 
         allAddOns {
             buildConfigField("boolean", "TESTING_BUILD", "true")
+        }
+
+        // SadSha: Play release variant with all packs bundled.
+        allAddOnsRelease {
+            buildConfigField("boolean", "TESTING_BUILD", "false")
+
+            packagingOptions {
+                //since dictionary jni so files are coming from
+                //another module, they are stripped there and should
+                //not be stripped again.
+                //double-stripping causes crash stacktraces to look weird
+                //in play-store.
+                doNotStrip '**/anysoftkey*_jni.so'
+            }
         }
     }
 }
@@ -146,6 +169,7 @@ dependencies {
     rootProject.findProject(":addons").subprojects.forEach {
         if (it.name == 'pack') {
             allAddOnsImplementation it
+            allAddOnsReleaseImplementation it
         }
     }
 }
